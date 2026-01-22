@@ -1,0 +1,2167 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix lkg: <http://lkg.org.pl/ns/lkg-core/> .
+@prefix lrm: <http://iflastandards.info/ns/lrm/lrmoo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+lkg:E35_12865 a crm:E35_Title ;
+    rdfs:label "E35 Dialogi (YID: MON1)" ;
+    crm:P102i_is_title_of lkg:F1_MON1 ;
+    crm:P190_has_symbolic_content "Dialogi" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12866 a crm:E35_Title ;
+    rdfs:label "E35 Dialogi. T.1, Dialogi. T.2 (YID: u_NFPL1136_NFPL1137)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL1136_NFPL1137 ;
+    crm:P190_has_symbolic_content "Dialogi. T.1, Dialogi. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12867 a crm:E35_Title ;
+    rdfs:label "E35 Summa technologiae (YID: MON2)" ;
+    crm:P102i_is_title_of lkg:F1_MON2 ;
+    crm:P190_has_symbolic_content "Summa technologiae" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12868 a crm:E35_Title ;
+    rdfs:label "E35 Summa technologiae. T.1, Summa technologiae. T.2 (YID: u_NFPL1138_NFPL1139)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL1138_NFPL1139 ;
+    crm:P190_has_symbolic_content "Summa technologiae. T.1, Summa technologiae. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12869 a crm:E35_Title ;
+    rdfs:label "E35 Filozofia przypadku (YID: MON3)" ;
+    crm:P102i_is_title_of lkg:F1_MON3 ;
+    crm:P190_has_symbolic_content "Filozofia przypadku" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12870 a crm:E35_Title ;
+    rdfs:label "E35 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL488_NFPL489)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL488_NFPL489 ;
+    crm:P190_has_symbolic_content "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12871 a crm:E35_Title ;
+    rdfs:label "E35 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL646_NFPL647)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL646_NFPL647 ;
+    crm:P190_has_symbolic_content "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12872 a crm:E35_Title ;
+    rdfs:label "E35 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL1264_NFPL1265)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL1264_NFPL1265 ;
+    crm:P190_has_symbolic_content "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12873 a crm:E35_Title ;
+    rdfs:label "E35 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert (YID: u_NFDE241_NFDE276)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE241_NFDE276 ;
+    crm:P190_has_symbolic_content "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12874 a crm:E35_Title ;
+    rdfs:label "E35 Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE315_NFDE316)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE315_NFDE316 ;
+    crm:P190_has_symbolic_content "Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12875 a crm:E35_Title ;
+    rdfs:label "E35 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE332_NFDE333)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE332_NFDE333 ;
+    crm:P190_has_symbolic_content "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12876 a crm:E35_Title ;
+    rdfs:label "E35 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE345_NFDE346)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE345_NFDE346 ;
+    crm:P190_has_symbolic_content "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12877 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia (YID: MON4)" ;
+    crm:P102i_is_title_of lkg:F1_MON4 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12878 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL384_NFPL385)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL384_NFPL385 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12879 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL421_NFPL422)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL421_NFPL422 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12880 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL648_NFPL649)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL648_NFPL649 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12881 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3 (YID: u_NFPL1140_NFPL1141_NFPL1142)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12882 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2037_NFPL2038)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL2037_NFPL2038 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12883 a crm:E35_Title ;
+    rdfs:label "E35 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2327_NFPL2328)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFPL2327_NFPL2328 ;
+    crm:P190_has_symbolic_content "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12884 a crm:E35_Title ;
+    rdfs:label "E35 Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel (YID: u_NFDE138_NFDE188)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE138_NFDE188 ;
+    crm:P190_has_symbolic_content "Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12885 a crm:E35_Title ;
+    rdfs:label "E35 Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel (YID: u_NFDE268_NFDE269)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE268_NFDE269 ;
+    crm:P190_has_symbolic_content "Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12886 a crm:E35_Title ;
+    rdfs:label "E35 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU495_NFRU496)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFRU495_NFRU496 ;
+    crm:P190_has_symbolic_content "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    crm:P72_has_language lkg:E56_rus .
+
+lkg:E35_12887 a crm:E35_Title ;
+    rdfs:label "E35 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU586_NFRU587)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFRU586_NFRU587 ;
+    crm:P190_has_symbolic_content "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    crm:P72_has_language lkg:E56_rus .
+
+lkg:E35_12888 a crm:E35_Title ;
+    rdfs:label "E35 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU588_NFRU589)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFRU588_NFRU589 ;
+    crm:P190_has_symbolic_content "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    crm:P72_has_language lkg:E56_rus .
+
+lkg:E35_12889 a crm:E35_Title ;
+    rdfs:label "E35 Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова (YID: u_NFRU736_NFRU737.2)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFRU736_NFRU737.2 ;
+    crm:P190_has_symbolic_content "Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова" ;
+    crm:P72_has_language lkg:E56_rus .
+
+lkg:E35_12890 a crm:E35_Title ;
+    rdfs:label "E35 Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова (YID: u_NFRU781_NFRU782)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFRU781_NFRU782 ;
+    crm:P190_has_symbolic_content "Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова" ;
+    crm:P72_has_language lkg:E56_rus .
+
+lkg:E35_12891 a crm:E35_Title ;
+    rdfs:label "E35 Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003 (YID: MON5)" ;
+    crm:P102i_is_title_of lkg:F1_MON5 ;
+    crm:P190_has_symbolic_content "Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12892 a crm:E35_Title ;
+    rdfs:label "E35 Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE284_NFDE304)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFDE284_NFDE304 ;
+    crm:P190_has_symbolic_content "Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12893 a crm:E35_Title ;
+    rdfs:label "E35 Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś) (YID: MON6)" ;
+    crm:P102i_is_title_of lkg:F1_MON6 ;
+    crm:P190_has_symbolic_content "Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś)" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12894 a crm:E35_Title ;
+    rdfs:label "E35 Die Vergangenheit der Zukunft [Przeszłość Przyszłości] (YID: MON7)" ;
+    crm:P102i_is_title_of lkg:F1_MON7 ;
+    crm:P190_has_symbolic_content "Die Vergangenheit der Zukunft [Przeszłość Przyszłości]" ;
+    crm:P72_has_language lkg:E56_deu .
+
+lkg:E35_12895 a crm:E35_Title ;
+    rdfs:label "E35 Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa) (YID: MON8)" ;
+    crm:P102i_is_title_of lkg:F1_MON8 ;
+    crm:P190_has_symbolic_content "Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa)" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12896 a crm:E35_Title ;
+    rdfs:label "E35 Okamgnienie (YID: MON9)" ;
+    crm:P102i_is_title_of lkg:F1_MON9 ;
+    crm:P190_has_symbolic_content "Okamgnienie" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E35_12897 a crm:E35_Title ;
+    rdfs:label "E35 The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti (YID: u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158)" ;
+    crm:P102i_is_title_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    crm:P190_has_symbolic_content "The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti" ;
+    crm:P72_has_language lkg:E56_eng .
+
+lkg:E35_12898 a crm:E35_Title ;
+    rdfs:label "E35 Golem XIV (YID: MON10)" ;
+    crm:P102i_is_title_of lkg:F1_MON10 ;
+    crm:P190_has_symbolic_content "Golem XIV" ;
+    crm:P72_has_language lkg:E56_pol .
+
+lkg:E42_32358 a crm:E42_Identifier ;
+    rdfs:label "E42 Dialogi. T.1, Dialogi. T.2 (YID: u_NFPL1136_NFPL1137) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL1136_NFPL1137" ;
+    crm:P1i_identifies lkg:F2_u_NFPL1136_NFPL1137 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32359 a crm:E42_Identifier ;
+    rdfs:label "E42 Summa technologiae. T.1, Summa technologiae. T.2 (YID: u_NFPL1138_NFPL1139) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL1138_NFPL1139" ;
+    crm:P1i_identifies lkg:F2_u_NFPL1138_NFPL1139 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32360 a crm:E42_Identifier ;
+    rdfs:label "E42 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL488_NFPL489) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL488_NFPL489" ;
+    crm:P1i_identifies lkg:F2_u_NFPL488_NFPL489 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32361 a crm:E42_Identifier ;
+    rdfs:label "E42 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL646_NFPL647) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL646_NFPL647" ;
+    crm:P1i_identifies lkg:F2_u_NFPL646_NFPL647 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32362 a crm:E42_Identifier ;
+    rdfs:label "E42 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL1264_NFPL1265) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL1264_NFPL1265" ;
+    crm:P1i_identifies lkg:F2_u_NFPL1264_NFPL1265 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32363 a crm:E42_Identifier ;
+    rdfs:label "E42 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert (YID: u_NFDE241_NFDE276) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE241_NFDE276" ;
+    crm:P1i_identifies lkg:F2_u_NFDE241_NFDE276 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32364 a crm:E42_Identifier ;
+    rdfs:label "E42 Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE315_NFDE316) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE315_NFDE316" ;
+    crm:P1i_identifies lkg:F2_u_NFDE315_NFDE316 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32365 a crm:E42_Identifier ;
+    rdfs:label "E42 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE332_NFDE333) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE332_NFDE333" ;
+    crm:P1i_identifies lkg:F2_u_NFDE332_NFDE333 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32366 a crm:E42_Identifier ;
+    rdfs:label "E42 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE345_NFDE346) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE345_NFDE346" ;
+    crm:P1i_identifies lkg:F2_u_NFDE345_NFDE346 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32367 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL384_NFPL385) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL384_NFPL385" ;
+    crm:P1i_identifies lkg:F2_u_NFPL384_NFPL385 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32368 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL421_NFPL422) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL421_NFPL422" ;
+    crm:P1i_identifies lkg:F2_u_NFPL421_NFPL422 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32369 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL648_NFPL649) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL648_NFPL649" ;
+    crm:P1i_identifies lkg:F2_u_NFPL648_NFPL649 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32370 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3 (YID: u_NFPL1140_NFPL1141_NFPL1142) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL1140_NFPL1141_NFPL1142" ;
+    crm:P1i_identifies lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32371 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2037_NFPL2038) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL2037_NFPL2038" ;
+    crm:P1i_identifies lkg:F2_u_NFPL2037_NFPL2038 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32372 a crm:E42_Identifier ;
+    rdfs:label "E42 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2327_NFPL2328) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFPL2327_NFPL2328" ;
+    crm:P1i_identifies lkg:F2_u_NFPL2327_NFPL2328 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32373 a crm:E42_Identifier ;
+    rdfs:label "E42 Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel (YID: u_NFDE138_NFDE188) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE138_NFDE188" ;
+    crm:P1i_identifies lkg:F2_u_NFDE138_NFDE188 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32374 a crm:E42_Identifier ;
+    rdfs:label "E42 Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel (YID: u_NFDE268_NFDE269) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE268_NFDE269" ;
+    crm:P1i_identifies lkg:F2_u_NFDE268_NFDE269 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32375 a crm:E42_Identifier ;
+    rdfs:label "E42 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU495_NFRU496) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFRU495_NFRU496" ;
+    crm:P1i_identifies lkg:F2_u_NFRU495_NFRU496 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32376 a crm:E42_Identifier ;
+    rdfs:label "E42 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU586_NFRU587) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFRU586_NFRU587" ;
+    crm:P1i_identifies lkg:F2_u_NFRU586_NFRU587 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32377 a crm:E42_Identifier ;
+    rdfs:label "E42 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU588_NFRU589) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFRU588_NFRU589" ;
+    crm:P1i_identifies lkg:F2_u_NFRU588_NFRU589 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32378 a crm:E42_Identifier ;
+    rdfs:label "E42 Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова (YID: u_NFRU736_NFRU737.2) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFRU736_NFRU737.2" ;
+    crm:P1i_identifies lkg:F2_u_NFRU736_NFRU737.2 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32379 a crm:E42_Identifier ;
+    rdfs:label "E42 Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова (YID: u_NFRU781_NFRU782) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFRU781_NFRU782" ;
+    crm:P1i_identifies lkg:F2_u_NFRU781_NFRU782 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32380 a crm:E42_Identifier ;
+    rdfs:label "E42 Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE284_NFDE304) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFDE284_NFDE304" ;
+    crm:P1i_identifies lkg:F2_u_NFDE284_NFDE304 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:E42_32381 a crm:E42_Identifier ;
+    rdfs:label "E42 The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti (YID: u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158) [YID]" ;
+    crm:P190_has_symbolic_content "u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158" ;
+    crm:P1i_identifies lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    crm:P2_has_type lkg:E55_YID .
+
+lkg:F27_MON1 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Dialogi (YID: MON1)" ;
+    lrm:R16_created lkg:F1_MON1 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON10 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Golem XIV (YID: MON10)" ;
+    lrm:R16_created lkg:F1_MON10 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON2 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Summa technologiae (YID: MON2)" ;
+    lrm:R16_created lkg:F1_MON2 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON3 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Filozofia przypadku (YID: MON3)" ;
+    lrm:R16_created lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON4 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Fantastyka i futurologia (YID: MON4)" ;
+    lrm:R16_created lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON5 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003 (YID: MON5)" ;
+    lrm:R16_created lkg:F1_MON5 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON6 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś) (YID: MON6)" ;
+    lrm:R16_created lkg:F1_MON6 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON7 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Die Vergangenheit der Zukunft [Przeszłość Przyszłości] (YID: MON7)" ;
+    lrm:R16_created lkg:F1_MON7 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON8 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa) (YID: MON8)" ;
+    lrm:R16_created lkg:F1_MON8 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F27_MON9 a lrm:F27_Work_Creation ;
+    rdfs:label "F27 Okamgnienie (YID: MON9)" ;
+    lrm:R16_created lkg:F1_MON9 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_NFCS15 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFCS24 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE122 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE123 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE126 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE159 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE166 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE183 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFDE187 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE203 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE204 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE215 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFDE217 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFDE220 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE225 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE254 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE286 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE291 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE305 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFDE307 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE337 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE360 lrm:R19_created_a_realisation_of lkg:F1_MON7 .
+
+lkg:F28_NFDE393 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE395 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE409 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE434 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE448 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE458 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE464 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFDE472 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE475 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE489 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE500 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE507 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE508 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE521 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFDE522 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFDE535 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFEN100 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFEN101 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFEN124 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFEN187 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFEN188 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFEN213 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFEN95 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES32 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES35 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES39 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFES40 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES42 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES6 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFES8 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFHU20 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFHU23 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFHU3 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFHU7 lrm:R19_created_a_realisation_of lkg:F1_MON4 .
+
+lkg:F28_NFHU8 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFIT11 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFIT12 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFIT13 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFIT7 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFIT8.3 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFJA24 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFLV17 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL136 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFPL1434 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL1474 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFPL1522 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL1705 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFPL1890 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFPL1893 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFPL1975 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFPL2039 lrm:R19_created_a_realisation_of lkg:F1_MON8 .
+
+lkg:F28_NFPL2323 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL2325 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFPL2333 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFPL2335 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL2336 lrm:R19_created_a_realisation_of lkg:F1_MON8 .
+
+lkg:F28_NFPL2337.2 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFPL2338 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFPL2397 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFPL2413 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL2417 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL2451 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL2455 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFPL301 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL329 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL355 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFPL395 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFPL423 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL436 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL437 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL477 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFPL575 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL587 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFPL601 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFPL605 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFPL638 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFRO6 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU138 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU209 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU230 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU434 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU435 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU436 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU489 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU490 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU492 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU493 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU494 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU514 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFRU515 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU516 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU520 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFRU553 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFRU557 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFRU558 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFRU559 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU560 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU572 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFRU573 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFRU584 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU585 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU591 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFRU592 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFRU600 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU601 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU602 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU616 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU617 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU70 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU715 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU729 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU731 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU737.1 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU738 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU739 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFRU740 lrm:R19_created_a_realisation_of lkg:F1_MON8 .
+
+lkg:F28_NFRU741 lrm:R19_created_a_realisation_of lkg:F1_MON5 .
+
+lkg:F28_NFRU742.2 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFRU746 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU747 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU751 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFRU756 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU762 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU765 lrm:R19_created_a_realisation_of lkg:F1_MON3 .
+
+lkg:F28_NFRU775 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFRU786 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFSK7 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFSR5 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFTR3 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK11 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK13 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK24 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK52 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK54.2 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFUK55 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK56 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK57 lrm:R19_created_a_realisation_of lkg:F1_MON10 .
+
+lkg:F28_NFUK60 lrm:R19_created_a_realisation_of lkg:F1_MON6 .
+
+lkg:F28_NFUK71 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F28_NFUK71.15 lrm:R19_created_a_realisation_of lkg:F1_MON9 .
+
+lkg:F28_NFUK73 lrm:R19_created_a_realisation_of lkg:F1_MON1 .
+
+lkg:F28_NFUK74 lrm:R19_created_a_realisation_of lkg:F1_MON4 .
+
+lkg:F28_NFZH8 lrm:R19_created_a_realisation_of lkg:F1_MON2 .
+
+lkg:F2_NFCS15 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFCS24 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE122 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE123 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE126 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE138 lrm:R5i_is_component_of lkg:F2_u_NFDE138_NFDE188 .
+
+lkg:F2_NFDE159 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE166 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE183 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFDE187 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE188 lrm:R5i_is_component_of lkg:F2_u_NFDE138_NFDE188 .
+
+lkg:F2_NFDE203 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE204 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE215 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFDE217 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFDE220 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE225 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE241 lrm:R5i_is_component_of lkg:F2_u_NFDE241_NFDE276 .
+
+lkg:F2_NFDE254 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE268 lrm:R5i_is_component_of lkg:F2_u_NFDE268_NFDE269 .
+
+lkg:F2_NFDE269 lrm:R5i_is_component_of lkg:F2_u_NFDE268_NFDE269 .
+
+lkg:F2_NFDE276 lrm:R5i_is_component_of lkg:F2_u_NFDE241_NFDE276 .
+
+lkg:F2_NFDE284 lrm:R5i_is_component_of lkg:F2_u_NFDE284_NFDE304 .
+
+lkg:F2_NFDE286 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE291 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE304 lrm:R5i_is_component_of lkg:F2_u_NFDE284_NFDE304 .
+
+lkg:F2_NFDE305 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFDE307 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE315 lrm:R5i_is_component_of lkg:F2_u_NFDE315_NFDE316 .
+
+lkg:F2_NFDE316 lrm:R5i_is_component_of lkg:F2_u_NFDE315_NFDE316 .
+
+lkg:F2_NFDE332 lrm:R5i_is_component_of lkg:F2_u_NFDE332_NFDE333 .
+
+lkg:F2_NFDE333 lrm:R5i_is_component_of lkg:F2_u_NFDE332_NFDE333 .
+
+lkg:F2_NFDE337 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE345 lrm:R5i_is_component_of lkg:F2_u_NFDE345_NFDE346 .
+
+lkg:F2_NFDE346 lrm:R5i_is_component_of lkg:F2_u_NFDE345_NFDE346 .
+
+lkg:F2_NFDE360 lrm:R3i_realises lkg:F1_MON7 .
+
+lkg:F2_NFDE393 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE395 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE409 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE434 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE448 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE458 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE464 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFDE472 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE475 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE489 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE500 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE507 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE508 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE521 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFDE522 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFDE535 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFEN100 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFEN101 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFEN124 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFEN153 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN154 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN155 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN156 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN157 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN158 lrm:R5i_is_component_of lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 .
+
+lkg:F2_NFEN187 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFEN188 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFEN213 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFEN95 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES32 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES35 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES39 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFES40 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES42 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES6 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFES8 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFHU20 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFHU23 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFHU3 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFHU7 lrm:R3i_realises lkg:F1_MON4 .
+
+lkg:F2_NFHU8 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFIT11 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFIT12 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFIT13 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFIT7 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFIT8.3 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFJA24 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFLV17 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL1136 lrm:R5i_is_component_of lkg:F2_u_NFPL1136_NFPL1137 .
+
+lkg:F2_NFPL1137 lrm:R5i_is_component_of lkg:F2_u_NFPL1136_NFPL1137 .
+
+lkg:F2_NFPL1138 lrm:R5i_is_component_of lkg:F2_u_NFPL1138_NFPL1139 .
+
+lkg:F2_NFPL1139 lrm:R5i_is_component_of lkg:F2_u_NFPL1138_NFPL1139 .
+
+lkg:F2_NFPL1140 lrm:R5i_is_component_of lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 .
+
+lkg:F2_NFPL1141 lrm:R5i_is_component_of lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 .
+
+lkg:F2_NFPL1142 lrm:R5i_is_component_of lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 .
+
+lkg:F2_NFPL1264 lrm:R5i_is_component_of lkg:F2_u_NFPL1264_NFPL1265 .
+
+lkg:F2_NFPL1265 lrm:R5i_is_component_of lkg:F2_u_NFPL1264_NFPL1265 .
+
+lkg:F2_NFPL136 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFPL1434 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL1474 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFPL1522 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL1705 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFPL1890 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFPL1893 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFPL1975 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFPL2037 lrm:R5i_is_component_of lkg:F2_u_NFPL2037_NFPL2038 .
+
+lkg:F2_NFPL2038 lrm:R5i_is_component_of lkg:F2_u_NFPL2037_NFPL2038 .
+
+lkg:F2_NFPL2039 lrm:R3i_realises lkg:F1_MON8 .
+
+lkg:F2_NFPL2323 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL2325 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFPL2327 lrm:R5i_is_component_of lkg:F2_u_NFPL2327_NFPL2328 .
+
+lkg:F2_NFPL2328 lrm:R5i_is_component_of lkg:F2_u_NFPL2327_NFPL2328 .
+
+lkg:F2_NFPL2333 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFPL2335 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL2336 lrm:R3i_realises lkg:F1_MON8 .
+
+lkg:F2_NFPL2337.2 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFPL2338 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFPL2397 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFPL2413 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL2417 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL2451 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL2455 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFPL301 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL329 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL355 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFPL384 lrm:R5i_is_component_of lkg:F2_u_NFPL384_NFPL385 .
+
+lkg:F2_NFPL385 lrm:R5i_is_component_of lkg:F2_u_NFPL384_NFPL385 .
+
+lkg:F2_NFPL395 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFPL421 lrm:R5i_is_component_of lkg:F2_u_NFPL421_NFPL422 .
+
+lkg:F2_NFPL422 lrm:R5i_is_component_of lkg:F2_u_NFPL421_NFPL422 .
+
+lkg:F2_NFPL423 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL436 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL437 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL477 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFPL488 lrm:R5i_is_component_of lkg:F2_u_NFPL488_NFPL489 .
+
+lkg:F2_NFPL489 lrm:R5i_is_component_of lkg:F2_u_NFPL488_NFPL489 .
+
+lkg:F2_NFPL575 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL587 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFPL601 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFPL605 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFPL638 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFPL646 lrm:R5i_is_component_of lkg:F2_u_NFPL646_NFPL647 .
+
+lkg:F2_NFPL647 lrm:R5i_is_component_of lkg:F2_u_NFPL646_NFPL647 .
+
+lkg:F2_NFPL648 lrm:R5i_is_component_of lkg:F2_u_NFPL648_NFPL649 .
+
+lkg:F2_NFPL649 lrm:R5i_is_component_of lkg:F2_u_NFPL648_NFPL649 .
+
+lkg:F2_NFRO6 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU138 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU209 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU230 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU434 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU435 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU436 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU489 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU490 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU492 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU493 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU494 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU495 lrm:R5i_is_component_of lkg:F2_u_NFRU495_NFRU496 .
+
+lkg:F2_NFRU496 lrm:R5i_is_component_of lkg:F2_u_NFRU495_NFRU496 .
+
+lkg:F2_NFRU514 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFRU515 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU516 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU520 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFRU553 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFRU557 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFRU558 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFRU559 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU560 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU572 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFRU573 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFRU584 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU585 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU586 lrm:R5i_is_component_of lkg:F2_u_NFRU586_NFRU587 .
+
+lkg:F2_NFRU587 lrm:R5i_is_component_of lkg:F2_u_NFRU586_NFRU587 .
+
+lkg:F2_NFRU588 lrm:R5i_is_component_of lkg:F2_u_NFRU588_NFRU589 .
+
+lkg:F2_NFRU589 lrm:R5i_is_component_of lkg:F2_u_NFRU588_NFRU589 .
+
+lkg:F2_NFRU591 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFRU592 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFRU600 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU601 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU602 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU616 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU617 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU70 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU715 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU729 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU731 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU736 lrm:R5i_is_component_of lkg:F2_u_NFRU736_NFRU737.2 .
+
+lkg:F2_NFRU737.1 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU737.2 lrm:R5i_is_component_of lkg:F2_u_NFRU736_NFRU737.2 .
+
+lkg:F2_NFRU738 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU739 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFRU740 lrm:R3i_realises lkg:F1_MON8 .
+
+lkg:F2_NFRU741 lrm:R3i_realises lkg:F1_MON5 .
+
+lkg:F2_NFRU742.2 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFRU746 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU747 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU751 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFRU756 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU762 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU765 lrm:R3i_realises lkg:F1_MON3 .
+
+lkg:F2_NFRU775 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFRU781 lrm:R5i_is_component_of lkg:F2_u_NFRU781_NFRU782 .
+
+lkg:F2_NFRU782 lrm:R5i_is_component_of lkg:F2_u_NFRU781_NFRU782 .
+
+lkg:F2_NFRU786 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFSK7 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFSR5 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFTR3 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK11 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK13 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK24 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK52 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK54.2 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFUK55 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK56 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK57 lrm:R3i_realises lkg:F1_MON10 .
+
+lkg:F2_NFUK60 lrm:R3i_realises lkg:F1_MON6 .
+
+lkg:F2_NFUK71 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F2_NFUK71.15 lrm:R3i_realises lkg:F1_MON9 .
+
+lkg:F2_NFUK73 lrm:R3i_realises lkg:F1_MON1 .
+
+lkg:F2_NFUK74 lrm:R3i_realises lkg:F1_MON4 .
+
+lkg:F2_NFZH8 lrm:R3i_realises lkg:F1_MON2 .
+
+lkg:F28_NFRU497 lrm:R19_created_a_realisation_of lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F28_NFRU517 lrm:R19_created_a_realisation_of lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F28_NFRU555 lrm:R19_created_a_realisation_of lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F28_NFRU556 lrm:R19_created_a_realisation_of lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F28_u_NFDE138_NFDE188 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel (YID: u_NFDE138_NFDE188)" ;
+    lrm:R17_created lkg:F2_u_NFDE138_NFDE188 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P4282,
+        lkg:E21_P4447,
+        lkg:E21_P4893 .
+
+lkg:F28_u_NFDE241_NFDE276 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert (YID: u_NFDE241_NFDE276)" ;
+    lrm:R17_created lkg:F2_u_NFDE241_NFDE276 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P1620 .
+
+lkg:F28_u_NFDE268_NFDE269 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel (YID: u_NFDE268_NFDE269)" ;
+    lrm:R17_created lkg:F2_u_NFDE268_NFDE269 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P4282,
+        lkg:E21_P4447,
+        lkg:E21_P4893 .
+
+lkg:F28_u_NFDE284_NFDE304 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE284_NFDE304)" ;
+    lrm:R17_created lkg:F2_u_NFDE284_NFDE304 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON5 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P4310 .
+
+lkg:F28_u_NFDE315_NFDE316 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE315_NFDE316)" ;
+    lrm:R17_created lkg:F2_u_NFDE315_NFDE316 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFDE332_NFDE333 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE332_NFDE333)" ;
+    lrm:R17_created lkg:F2_u_NFDE332_NFDE333 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFDE345_NFDE346 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE345_NFDE346)" ;
+    lrm:R17_created lkg:F2_u_NFDE345_NFDE346 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti (YID: u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158)" ;
+    lrm:R17_created lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON9 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P5990 .
+
+lkg:F28_u_NFPL1136_NFPL1137 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Dialogi. T.1, Dialogi. T.2 (YID: u_NFPL1136_NFPL1137)" ;
+    lrm:R17_created lkg:F2_u_NFPL1136_NFPL1137 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON1 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P2028 .
+
+lkg:F28_u_NFPL1138_NFPL1139 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Summa technologiae. T.1, Summa technologiae. T.2 (YID: u_NFPL1138_NFPL1139)" ;
+    lrm:R17_created lkg:F2_u_NFPL1138_NFPL1139 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON2 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P2028 .
+
+lkg:F28_u_NFPL1140_NFPL1141_NFPL1142 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3 (YID: u_NFPL1140_NFPL1141_NFPL1142)" ;
+    lrm:R17_created lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P2028 .
+
+lkg:F28_u_NFPL1264_NFPL1265 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL1264_NFPL1265)" ;
+    lrm:R17_created lkg:F2_u_NFPL1264_NFPL1265 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P2028 .
+
+lkg:F28_u_NFPL2037_NFPL2038 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2037_NFPL2038)" ;
+    lrm:R17_created lkg:F2_u_NFPL2037_NFPL2038 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL2327_NFPL2328 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2327_NFPL2328)" ;
+    lrm:R17_created lkg:F2_u_NFPL2327_NFPL2328 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL384_NFPL385 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL384_NFPL385)" ;
+    lrm:R17_created lkg:F2_u_NFPL384_NFPL385 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL421_NFPL422 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL421_NFPL422)" ;
+    lrm:R17_created lkg:F2_u_NFPL421_NFPL422 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL488_NFPL489 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL488_NFPL489)" ;
+    lrm:R17_created lkg:F2_u_NFPL488_NFPL489 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL646_NFPL647 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL646_NFPL647)" ;
+    lrm:R17_created lkg:F2_u_NFPL646_NFPL647 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON3 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFPL648_NFPL649 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL648_NFPL649)" ;
+    lrm:R17_created lkg:F2_u_NFPL648_NFPL649 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F28_u_NFRU495_NFRU496 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU495_NFRU496)" ;
+    lrm:R17_created lkg:F2_u_NFRU495_NFRU496 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P472,
+        lkg:E21_P4799,
+        lkg:E21_P6724,
+        lkg:E21_P6919,
+        lkg:E21_P6948 .
+
+lkg:F28_u_NFRU586_NFRU587 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU586_NFRU587)" ;
+    lrm:R17_created lkg:F2_u_NFRU586_NFRU587 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P4799,
+        lkg:E21_P6724,
+        lkg:E21_P6919,
+        lkg:E21_P6948 .
+
+lkg:F28_u_NFRU588_NFRU589 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU588_NFRU589)" ;
+    lrm:R17_created lkg:F2_u_NFRU588_NFRU589 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P4799,
+        lkg:E21_P6724,
+        lkg:E21_P6919,
+        lkg:E21_P6948 .
+
+lkg:F28_u_NFRU736_NFRU737.2 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова (YID: u_NFRU736_NFRU737.2)" ;
+    lrm:R17_created lkg:F2_u_NFRU736_NFRU737.2 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0,
+        lkg:E21_P6919 .
+
+lkg:F28_u_NFRU781_NFRU782 a lrm:F28_Expression_Creation ;
+    rdfs:label "F28 Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова (YID: u_NFRU781_NFRU782)" ;
+    lrm:R17_created lkg:F2_u_NFRU781_NFRU782 ;
+    lrm:R19_created_a_realisation_of lkg:F1_MON4 ;
+    lkg:S142_written_by lkg:E21_P0 .
+
+lkg:F2_NFRU497 lrm:R3i_realises lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F2_NFRU517 lrm:R3i_realises lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F2_NFRU555 lrm:R3i_realises lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F2_NFRU556 lrm:R3i_realises lkg:F1_MON8,
+        lkg:F1_MON9 .
+
+lkg:F1_MON7 a lrm:F1_Work ;
+    rdfs:label "F1 Die Vergangenheit der Zukunft [Przeszłość Przyszłości] (YID: MON7)" ;
+    lrm:R16i_was_created_by lkg:F27_MON7 ;
+    lrm:R19i_was_realised_through lkg:F28_NFDE360 ;
+    lrm:R3_is_realised_in lkg:F2_NFDE360 ;
+    crm:P102_has_title lkg:E35_12894 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Die Vergangenheit der Zukunft [Przeszłość Przyszłości]" ;
+    skos:hiddenLabel "6.0"^^xsd:float ;
+    skos:prefLabel "Die Vergangenheit der Zukunft [Przeszłość Przyszłości]" .
+
+lkg:F2_u_NFDE138_NFDE188 a lrm:F2_Expression ;
+    rdfs:label "F2 Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel (YID: u_NFDE138_NFDE188)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE138_NFDE188 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFDE138,
+        lkg:F2_NFDE188 ;
+    crm:P102_has_title lkg:E35_12884 ;
+    crm:P1_is_identified_by lkg:E42_32373 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel" ;
+    skos:hiddenLabel "9261.5"^^xsd:float ;
+    skos:prefLabel "Phantastik und Futurologie. 1. Teil / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie. 2. Teil / Übersetzt von Edda Werfel" .
+
+lkg:F2_u_NFDE241_NFDE276 a lrm:F2_Expression ;
+    rdfs:label "F2 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert (YID: u_NFDE241_NFDE276)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE241_NFDE276 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFDE241,
+        lkg:F2_NFDE276 ;
+    crm:P102_has_title lkg:E35_12873 ;
+    crm:P1_is_identified_by lkg:E42_32363 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert" ;
+    skos:hiddenLabel "9491.5"^^xsd:float ;
+    skos:prefLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung wurde vom Autor autorisiert, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese; Die Übersetzung folgt der vom Autor revidierten Fassung der 2. Auflage und wurde von ihm autorisiert" .
+
+lkg:F2_u_NFDE268_NFDE269 a lrm:F2_Expression ;
+    rdfs:label "F2 Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel (YID: u_NFDE268_NFDE269)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE268_NFDE269 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFDE268,
+        lkg:F2_NFDE269 ;
+    crm:P102_has_title lkg:E35_12885 ;
+    crm:P1_is_identified_by lkg:E42_32374 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel" ;
+    skos:hiddenLabel "9575.5"^^xsd:float ;
+    skos:prefLabel "Phantastik und Futurologie I / Übersetzt von Beate Sorger und Wiktor Szacki (vom Autor autorisiert), Phantastik und Futurologie II / Übersetzt von Edda Werfel" .
+
+lkg:F2_u_NFDE284_NFDE304 a lrm:F2_Expression ;
+    rdfs:label "F2 Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE284_NFDE304)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE284_NFDE304 ;
+    lrm:R3i_realises lkg:F1_MON5 ;
+    lrm:R5_has_component lkg:F2_NFDE284,
+        lkg:F2_NFDE304 ;
+    crm:P102_has_title lkg:E35_12892 ;
+    crm:P1_is_identified_by lkg:E42_32380 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    skos:hiddenLabel "9631.5"^^xsd:float ;
+    skos:prefLabel "Sade und die Spieltheorie: Essays. Band 1 / Aus dem Polnischen von Friedrich Griese, Über außersinnliche Wahrnehmung: Essays. Band 2 / Aus dem Polnischen von Friedrich Griese" .
+
+lkg:F2_u_NFDE315_NFDE316 a lrm:F2_Expression ;
+    rdfs:label "F2 Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE315_NFDE316)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE315_NFDE316 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFDE315,
+        lkg:F2_NFDE316 ;
+    crm:P102_has_title lkg:E35_12874 ;
+    crm:P1_is_identified_by lkg:E42_32364 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese" ;
+    skos:hiddenLabel "9718.5"^^xsd:float ;
+    skos:prefLabel "Philosophie des Zufalls I / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls II / Aus dem Polnischen von Friedrich Griese" .
+
+lkg:F2_u_NFDE332_NFDE333 a lrm:F2_Expression ;
+    rdfs:label "F2 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE332_NFDE333)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE332_NFDE333 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFDE332,
+        lkg:F2_NFDE333 ;
+    crm:P102_has_title lkg:E35_12875 ;
+    crm:P1_is_identified_by lkg:E42_32365 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    skos:hiddenLabel "9740.5"^^xsd:float ;
+    skos:prefLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" .
+
+lkg:F2_u_NFDE345_NFDE346 a lrm:F2_Expression ;
+    rdfs:label "F2 Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese (YID: u_NFDE345_NFDE346)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFDE345_NFDE346 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFDE345,
+        lkg:F2_NFDE346 ;
+    crm:P102_has_title lkg:E35_12876 ;
+    crm:P1_is_identified_by lkg:E42_32366 ;
+    crm:P72_has_language lkg:E56_deu ;
+    skos:altLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" ;
+    skos:hiddenLabel "9758.5"^^xsd:float ;
+    skos:prefLabel "Philosophie des Zufalls. Band 1 / Aus dem Polnischen von Friedrich Griese, Philosophie des Zufalls. Band 2 / Aus dem Polnischen von Friedrich Griese" .
+
+lkg:F2_u_NFPL1136_NFPL1137 a lrm:F2_Expression ;
+    rdfs:label "F2 Dialogi. T.1, Dialogi. T.2 (YID: u_NFPL1136_NFPL1137)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL1136_NFPL1137 ;
+    lrm:R3i_realises lkg:F1_MON1 ;
+    lrm:R5_has_component lkg:F2_NFPL1136,
+        lkg:F2_NFPL1137 ;
+    crm:P102_has_title lkg:E35_12866 ;
+    crm:P1_is_identified_by lkg:E42_32358 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Dialogi. T.1, Dialogi. T.2" ;
+    skos:hiddenLabel "1881.5"^^xsd:float ;
+    skos:prefLabel "Dialogi. T.1, Dialogi. T.2" .
+
+lkg:F2_u_NFPL1138_NFPL1139 a lrm:F2_Expression ;
+    rdfs:label "F2 Summa technologiae. T.1, Summa technologiae. T.2 (YID: u_NFPL1138_NFPL1139)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL1138_NFPL1139 ;
+    lrm:R3i_realises lkg:F1_MON2 ;
+    lrm:R5_has_component lkg:F2_NFPL1138,
+        lkg:F2_NFPL1139 ;
+    crm:P102_has_title lkg:E35_12868 ;
+    crm:P1_is_identified_by lkg:E42_32359 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Summa technologiae. T.1, Summa technologiae. T.2" ;
+    skos:hiddenLabel "1889.5"^^xsd:float ;
+    skos:prefLabel "Summa technologiae. T.1, Summa technologiae. T.2" .
+
+lkg:F2_u_NFPL1264_NFPL1265 a lrm:F2_Expression ;
+    rdfs:label "F2 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL1264_NFPL1265)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL1264_NFPL1265 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFPL1264,
+        lkg:F2_NFPL1265 ;
+    crm:P102_has_title lkg:E35_12872 ;
+    crm:P1_is_identified_by lkg:E42_32362 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    skos:hiddenLabel "2053.5"^^xsd:float ;
+    skos:prefLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" .
+
+lkg:F2_u_NFPL2037_NFPL2038 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2037_NFPL2038)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL2037_NFPL2038 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL2037,
+        lkg:F2_NFPL2038 ;
+    crm:P102_has_title lkg:E35_12882 ;
+    crm:P1_is_identified_by lkg:E42_32371 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    skos:hiddenLabel "3171.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" .
+
+lkg:F2_u_NFPL2327_NFPL2328 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL2327_NFPL2328)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL2327_NFPL2328 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL2327,
+        lkg:F2_NFPL2328 ;
+    crm:P102_has_title lkg:E35_12883 ;
+    crm:P1_is_identified_by lkg:E42_32372 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    skos:hiddenLabel "3855.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" .
+
+lkg:F2_u_NFPL384_NFPL385 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL384_NFPL385)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL384_NFPL385 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL384,
+        lkg:F2_NFPL385 ;
+    crm:P102_has_title lkg:E35_12878 ;
+    crm:P1_is_identified_by lkg:E42_32367 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    skos:hiddenLabel "668.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" .
+
+lkg:F2_u_NFPL421_NFPL422 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL421_NFPL422)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL421_NFPL422 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL421,
+        lkg:F2_NFPL422 ;
+    crm:P102_has_title lkg:E35_12879 ;
+    crm:P1_is_identified_by lkg:E42_32368 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    skos:hiddenLabel "762.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" .
+
+lkg:F2_u_NFPL488_NFPL489 a lrm:F2_Expression ;
+    rdfs:label "F2 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL488_NFPL489)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL488_NFPL489 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFPL488,
+        lkg:F2_NFPL489 ;
+    crm:P102_has_title lkg:E35_12870 ;
+    crm:P1_is_identified_by lkg:E42_32360 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    skos:hiddenLabel "927.5"^^xsd:float ;
+    skos:prefLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" .
+
+lkg:F2_u_NFPL646_NFPL647 a lrm:F2_Expression ;
+    rdfs:label "F2 Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2 (YID: u_NFPL646_NFPL647)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL646_NFPL647 ;
+    lrm:R3i_realises lkg:F1_MON3 ;
+    lrm:R5_has_component lkg:F2_NFPL646,
+        lkg:F2_NFPL647 ;
+    crm:P102_has_title lkg:E35_12871 ;
+    crm:P1_is_identified_by lkg:E42_32361 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" ;
+    skos:hiddenLabel "1182.5"^^xsd:float ;
+    skos:prefLabel "Filozofia przypadku. Literatura w świetle empirii. T.1, Filozofia przypadku. Literatura w świetle empirii. T.2" .
+
+lkg:F2_u_NFPL648_NFPL649 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2 (YID: u_NFPL648_NFPL649)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL648_NFPL649 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL648,
+        lkg:F2_NFPL649 ;
+    crm:P102_has_title lkg:E35_12880 ;
+    crm:P1_is_identified_by lkg:E42_32369 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" ;
+    skos:hiddenLabel "1232.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2" .
+
+lkg:F2_u_NFRU495_NFRU496 a lrm:F2_Expression ;
+    rdfs:label "F2 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU495_NFRU496)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFRU495_NFRU496 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFRU495,
+        lkg:F2_NFRU496 ;
+    crm:P102_has_title lkg:E35_12886 ;
+    crm:P1_is_identified_by lkg:E42_32375 ;
+    crm:P72_has_language lkg:E56_rus ;
+    skos:altLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    skos:hiddenLabel "6833.5"^^xsd:float ;
+    skos:prefLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" .
+
+lkg:F2_u_NFRU586_NFRU587 a lrm:F2_Expression ;
+    rdfs:label "F2 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU586_NFRU587)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFRU586_NFRU587 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFRU586,
+        lkg:F2_NFRU587 ;
+    crm:P102_has_title lkg:E35_12887 ;
+    crm:P1_is_identified_by lkg:E42_32376 ;
+    crm:P72_has_language lkg:E56_rus ;
+    skos:altLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    skos:hiddenLabel "7365.5"^^xsd:float ;
+    skos:prefLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" .
+
+lkg:F2_u_NFRU588_NFRU589 a lrm:F2_Expression ;
+    rdfs:label "F2 Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян (YID: u_NFRU588_NFRU589)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFRU588_NFRU589 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFRU588,
+        lkg:F2_NFRU589 ;
+    crm:P102_has_title lkg:E35_12888 ;
+    crm:P1_is_identified_by lkg:E42_32377 ;
+    crm:P72_has_language lkg:E56_rus ;
+    skos:altLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" ;
+    skos:hiddenLabel "7367.5"^^xsd:float ;
+    skos:prefLabel "Фантастика и футурология. Кн. 1 / Пер. С.Макарцева; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян, Фантастика и футурология. Кн. 2 / Пер. Е.Вайсброта; Под ред. В.Борисова; Отв. ред. Е.Барзова, Г.Мурадян" .
+
+lkg:F2_u_NFRU736_NFRU737.2 a lrm:F2_Expression ;
+    rdfs:label "F2 Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова (YID: u_NFRU736_NFRU737.2)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFRU736_NFRU737.2 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFRU736,
+        lkg:F2_NFRU737.2 ;
+    crm:P102_has_title lkg:E35_12889 ;
+    crm:P1_is_identified_by lkg:E42_32378 ;
+    crm:P72_has_language lkg:E56_rus ;
+    skos:altLabel "Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова" ;
+    skos:hiddenLabel "8381.5"^^xsd:float ;
+    skos:prefLabel "Фантастика и футурология: Кн. 1 / Пер. С.Макарцева; под ред. В.Борисова // В книге: Лем С., Рассказы о пилоте Пирксе, Фантастика и футурология: Кн. 2 / Пер. Е.Вайсброта; под ред. В.Борисова" .
+
+lkg:F2_u_NFRU781_NFRU782 a lrm:F2_Expression ;
+    rdfs:label "F2 Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова (YID: u_NFRU781_NFRU782)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFRU781_NFRU782 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFRU781,
+        lkg:F2_NFRU782 ;
+    crm:P102_has_title lkg:E35_12890 ;
+    crm:P1_is_identified_by lkg:E42_32379 ;
+    crm:P72_has_language lkg:E56_rus ;
+    skos:altLabel "Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова" ;
+    skos:hiddenLabel "8990.5"^^xsd:float ;
+    skos:prefLabel "Фантастика и футурология. Т.1 / Перевод В.Борисова, Фантастика и футурология. Т.2 / Пер. Е.Вайсброта; Под ред. В.Борисова" .
+
+lkg:F2_u_NFPL1140_NFPL1141_NFPL1142 a lrm:F2_Expression ;
+    rdfs:label "F2 Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3 (YID: u_NFPL1140_NFPL1141_NFPL1142)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFPL1140_NFPL1141_NFPL1142 ;
+    lrm:R3i_realises lkg:F1_MON4 ;
+    lrm:R5_has_component lkg:F2_NFPL1140,
+        lkg:F2_NFPL1141,
+        lkg:F2_NFPL1142 ;
+    crm:P102_has_title lkg:E35_12881 ;
+    crm:P1_is_identified_by lkg:E42_32370 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3" ;
+    skos:hiddenLabel "1903.5"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia. T.1, Fantastyka i futurologia. T.2, Fantastyka i futurologia. T.3" .
+
+lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 a lrm:F2_Expression ;
+    rdfs:label "F2 The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti (YID: u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158)" ;
+    lrm:R17i_was_created_by lkg:F28_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    lrm:R3i_realises lkg:F1_MON9 ;
+    lrm:R5_has_component lkg:F2_NFEN153,
+        lkg:F2_NFEN154,
+        lkg:F2_NFEN155,
+        lkg:F2_NFEN156,
+        lkg:F2_NFEN157,
+        lkg:F2_NFEN158 ;
+    crm:P102_has_title lkg:E35_12897 ;
+    crm:P1_is_identified_by lkg:E42_32381 ;
+    crm:P72_has_language lkg:E56_eng ;
+    skos:altLabel "The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti" ;
+    skos:hiddenLabel "10596.5"^^xsd:float ;
+    skos:prefLabel "The immortality controversy [The Blink of an Eye, P.1] / Translated from the Polish by Christina Manetti, Nature's aimless wisdom [The Blink of an Eye, P.2] / Translated from the Polish by Christina Manetti, Technogenic civilization [The Blink of an Eye, P.3] / Translated from the Polish by Christina Manetti, On wisdom [The Blink of an Eye, P.4] / Translated from the Polish by Christina Manetti, The fate of life on Earth [The Blink of an Eye, P.5] / Translated from the Polish by Christina Manetti, Flashing forward [The Blink of an Eye, P.6] / Translated from the Polish by Christina Manetti" .
+
+lkg:F1_MON8 a lrm:F1_Work ;
+    rdfs:label "F1 Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa) (YID: MON8)" ;
+    lrm:R16i_was_created_by lkg:F27_MON8 ;
+    lrm:R19i_was_realised_through lkg:F28_NFPL2039,
+        lkg:F28_NFPL2336,
+        lkg:F28_NFRU497,
+        lkg:F28_NFRU517,
+        lkg:F28_NFRU555,
+        lkg:F28_NFRU556,
+        lkg:F28_NFRU740 ;
+    lrm:R3_is_realised_in lkg:F2_NFPL2039,
+        lkg:F2_NFPL2336,
+        lkg:F2_NFRU497,
+        lkg:F2_NFRU517,
+        lkg:F2_NFRU555,
+        lkg:F2_NFRU556,
+        lkg:F2_NFRU740 ;
+    crm:P102_has_title lkg:E35_12895 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa)" ;
+    skos:hiddenLabel "7.0"^^xsd:float ;
+    skos:prefLabel "Moloch (Tajemnica chińskiego pokoju + Bomba megabitowa)" .
+
+lkg:F1_MON6 a lrm:F1_Work ;
+    rdfs:label "F1 Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś) (YID: MON6)" ;
+    lrm:R16i_was_created_by lkg:F27_MON6 ;
+    lrm:R19i_was_realised_through lkg:F28_NFPL1890,
+        lkg:F28_NFPL2397,
+        lkg:F28_NFPL638,
+        lkg:F28_NFRU553,
+        lkg:F28_NFRU557,
+        lkg:F28_NFRU558,
+        lkg:F28_NFRU739,
+        lkg:F28_NFUK54.2,
+        lkg:F28_NFUK60 ;
+    lrm:R3_is_realised_in lkg:F2_NFPL1890,
+        lkg:F2_NFPL2397,
+        lkg:F2_NFPL638,
+        lkg:F2_NFRU553,
+        lkg:F2_NFRU557,
+        lkg:F2_NFRU558,
+        lkg:F2_NFRU739,
+        lkg:F2_NFUK54.2,
+        lkg:F2_NFUK60 ;
+    crm:P102_has_title lkg:E35_12893 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś)" ;
+    skos:hiddenLabel "5.0"^^xsd:float ;
+    skos:prefLabel "Rozmowy ze Stanisławem Lemem, 1987, Tako rzecze… Lem, 2002 (Ze Stanisławem Lemem rozmawiał Stanisław Bereś)" .
+
+lkg:F1_MON5 a lrm:F1_Work ;
+    rdfs:label "F1 Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003 (YID: MON5)" ;
+    lrm:R16i_was_created_by lkg:F27_MON5 ;
+    lrm:R19i_was_realised_through lkg:F28_NFDE215,
+        lkg:F28_NFDE305,
+        lkg:F28_NFDE535,
+        lkg:F28_NFPL1975,
+        lkg:F28_NFPL2325,
+        lkg:F28_NFPL477,
+        lkg:F28_NFRU591,
+        lkg:F28_NFRU592,
+        lkg:F28_NFRU741,
+        lkg:F28_u_NFDE284_NFDE304 ;
+    lrm:R3_is_realised_in lkg:F2_NFDE215,
+        lkg:F2_NFDE305,
+        lkg:F2_NFDE535,
+        lkg:F2_NFPL1975,
+        lkg:F2_NFPL2325,
+        lkg:F2_NFPL477,
+        lkg:F2_NFRU591,
+        lkg:F2_NFRU592,
+        lkg:F2_NFRU741,
+        lkg:F2_u_NFDE284_NFDE304 ;
+    crm:P102_has_title lkg:E35_12891 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003" ;
+    skos:hiddenLabel "4.0"^^xsd:float ;
+    skos:prefLabel "Rozprawy i szkice, 1975, Mój pogląd na literaturę, 2003" .
+
+lkg:F1_MON1 a lrm:F1_Work ;
+    rdfs:label "F1 Dialogi (YID: MON1)" ;
+    lrm:R16i_was_created_by lkg:F27_MON1 ;
+    lrm:R19i_was_realised_through lkg:F28_NFDE183,
+        lkg:F28_NFDE217,
+        lkg:F28_NFEN213,
+        lkg:F28_NFPL136,
+        lkg:F28_NFPL1705,
+        lkg:F28_NFPL2338,
+        lkg:F28_NFPL395,
+        lkg:F28_NFPL587,
+        lkg:F28_NFRU514,
+        lkg:F28_NFUK73,
+        lkg:F28_u_NFPL1136_NFPL1137 ;
+    lrm:R3_is_realised_in lkg:F2_NFDE183,
+        lkg:F2_NFDE217,
+        lkg:F2_NFEN213,
+        lkg:F2_NFPL136,
+        lkg:F2_NFPL1705,
+        lkg:F2_NFPL2338,
+        lkg:F2_NFPL395,
+        lkg:F2_NFPL587,
+        lkg:F2_NFRU514,
+        lkg:F2_NFUK73,
+        lkg:F2_u_NFPL1136_NFPL1137 ;
+    crm:P102_has_title lkg:E35_12865 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Dialogi" ;
+    skos:hiddenLabel "0.0"^^xsd:float ;
+    skos:prefLabel "Dialogi" .
+
+lkg:F1_MON9 a lrm:F1_Work ;
+    rdfs:label "F1 Okamgnienie (YID: MON9)" ;
+    lrm:R16i_was_created_by lkg:F27_MON9 ;
+    lrm:R19i_was_realised_through lkg:F28_NFDE464,
+        lkg:F28_NFHU23,
+        lkg:F28_NFPL1474,
+        lkg:F28_NFPL2337.2,
+        lkg:F28_NFPL2455,
+        lkg:F28_NFRU497,
+        lkg:F28_NFRU517,
+        lkg:F28_NFRU555,
+        lkg:F28_NFRU556,
+        lkg:F28_NFUK71.15,
+        lkg:F28_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    lrm:R3_is_realised_in lkg:F2_NFDE464,
+        lkg:F2_NFHU23,
+        lkg:F2_NFPL1474,
+        lkg:F2_NFPL2337.2,
+        lkg:F2_NFPL2455,
+        lkg:F2_NFRU497,
+        lkg:F2_NFRU517,
+        lkg:F2_NFRU555,
+        lkg:F2_NFRU556,
+        lkg:F2_NFUK71.15,
+        lkg:F2_u_NFEN153_NFEN154_NFEN155_NFEN156_NFEN157_NFEN158 ;
+    crm:P102_has_title lkg:E35_12896 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Okamgnienie" ;
+    skos:hiddenLabel "8.0"^^xsd:float ;
+    skos:prefLabel "Okamgnienie" .
+
+lkg:F1_MON3 a lrm:F1_Work ;
+    rdfs:label "F1 Filozofia przypadku (YID: MON3)" ;
+    lrm:R16i_was_created_by lkg:F27_MON3 ;
+    lrm:R19i_was_realised_through lkg:F28_NFPL1893,
+        lkg:F28_NFPL2333,
+        lkg:F28_NFPL355,
+        lkg:F28_NFRU520,
+        lkg:F28_NFRU572,
+        lkg:F28_NFRU573,
+        lkg:F28_NFRU742.2,
+        lkg:F28_NFRU765,
+        lkg:F28_u_NFDE241_NFDE276,
+        lkg:F28_u_NFDE315_NFDE316,
+        lkg:F28_u_NFDE332_NFDE333,
+        lkg:F28_u_NFDE345_NFDE346,
+        lkg:F28_u_NFPL1264_NFPL1265,
+        lkg:F28_u_NFPL488_NFPL489,
+        lkg:F28_u_NFPL646_NFPL647 ;
+    lrm:R3_is_realised_in lkg:F2_NFPL1893,
+        lkg:F2_NFPL2333,
+        lkg:F2_NFPL355,
+        lkg:F2_NFRU520,
+        lkg:F2_NFRU572,
+        lkg:F2_NFRU573,
+        lkg:F2_NFRU742.2,
+        lkg:F2_NFRU765,
+        lkg:F2_u_NFDE241_NFDE276,
+        lkg:F2_u_NFDE315_NFDE316,
+        lkg:F2_u_NFDE332_NFDE333,
+        lkg:F2_u_NFDE345_NFDE346,
+        lkg:F2_u_NFPL1264_NFPL1265,
+        lkg:F2_u_NFPL488_NFPL489,
+        lkg:F2_u_NFPL646_NFPL647 ;
+    crm:P102_has_title lkg:E35_12869 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Filozofia przypadku" ;
+    skos:hiddenLabel "2.0"^^xsd:float ;
+    skos:prefLabel "Filozofia przypadku" .
+
+lkg:F1_MON4 a lrm:F1_Work ;
+    rdfs:label "F1 Fantastyka i futurologia (YID: MON4)" ;
+    lrm:R16i_was_created_by lkg:F27_MON4 ;
+    lrm:R19i_was_realised_through lkg:F28_NFHU7,
+        lkg:F28_NFUK74,
+        lkg:F28_u_NFDE138_NFDE188,
+        lkg:F28_u_NFDE268_NFDE269,
+        lkg:F28_u_NFPL1140_NFPL1141_NFPL1142,
+        lkg:F28_u_NFPL2037_NFPL2038,
+        lkg:F28_u_NFPL2327_NFPL2328,
+        lkg:F28_u_NFPL384_NFPL385,
+        lkg:F28_u_NFPL421_NFPL422,
+        lkg:F28_u_NFPL648_NFPL649,
+        lkg:F28_u_NFRU495_NFRU496,
+        lkg:F28_u_NFRU586_NFRU587,
+        lkg:F28_u_NFRU588_NFRU589,
+        lkg:F28_u_NFRU736_NFRU737.2,
+        lkg:F28_u_NFRU781_NFRU782 ;
+    lrm:R3_is_realised_in lkg:F2_NFHU7,
+        lkg:F2_NFUK74,
+        lkg:F2_u_NFDE138_NFDE188,
+        lkg:F2_u_NFDE268_NFDE269,
+        lkg:F2_u_NFPL1140_NFPL1141_NFPL1142,
+        lkg:F2_u_NFPL2037_NFPL2038,
+        lkg:F2_u_NFPL2327_NFPL2328,
+        lkg:F2_u_NFPL384_NFPL385,
+        lkg:F2_u_NFPL421_NFPL422,
+        lkg:F2_u_NFPL648_NFPL649,
+        lkg:F2_u_NFRU495_NFRU496,
+        lkg:F2_u_NFRU586_NFRU587,
+        lkg:F2_u_NFRU588_NFRU589,
+        lkg:F2_u_NFRU736_NFRU737.2,
+        lkg:F2_u_NFRU781_NFRU782 ;
+    crm:P102_has_title lkg:E35_12877 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Fantastyka i futurologia" ;
+    skos:hiddenLabel "3.0"^^xsd:float ;
+    skos:prefLabel "Fantastyka i futurologia" .
+
+lkg:F1_MON2 a lrm:F1_Work ;
+    rdfs:label "F1 Summa technologiae (YID: MON2)" ;
+    lrm:R16i_was_created_by lkg:F27_MON2 ;
+    lrm:R19i_was_realised_through lkg:F28_NFCS24,
+        lkg:F28_NFDE126,
+        lkg:F28_NFDE166,
+        lkg:F28_NFDE187,
+        lkg:F28_NFDE204,
+        lkg:F28_NFDE220,
+        lkg:F28_NFDE291,
+        lkg:F28_NFDE395,
+        lkg:F28_NFDE448,
+        lkg:F28_NFDE472,
+        lkg:F28_NFDE521,
+        lkg:F28_NFEN187,
+        lkg:F28_NFEN188,
+        lkg:F28_NFES39,
+        lkg:F28_NFHU3,
+        lkg:F28_NFHU8,
+        lkg:F28_NFIT11,
+        lkg:F28_NFIT12,
+        lkg:F28_NFIT13,
+        lkg:F28_NFLV17,
+        lkg:F28_NFPL1522,
+        lkg:F28_NFPL2335,
+        lkg:F28_NFPL2413,
+        lkg:F28_NFPL301,
+        lkg:F28_NFPL329,
+        lkg:F28_NFPL436,
+        lkg:F28_NFPL601,
+        lkg:F28_NFRU230,
+        lkg:F28_NFRU435,
+        lkg:F28_NFRU436,
+        lkg:F28_NFRU492,
+        lkg:F28_NFRU493,
+        lkg:F28_NFRU494,
+        lkg:F28_NFRU559,
+        lkg:F28_NFRU560,
+        lkg:F28_NFRU584,
+        lkg:F28_NFRU585,
+        lkg:F28_NFRU616,
+        lkg:F28_NFRU617,
+        lkg:F28_NFRU70,
+        lkg:F28_NFRU715,
+        lkg:F28_NFRU729,
+        lkg:F28_NFRU731,
+        lkg:F28_NFRU737.1,
+        lkg:F28_NFRU747,
+        lkg:F28_NFRU756,
+        lkg:F28_NFRU762,
+        lkg:F28_NFRU775,
+        lkg:F28_NFRU786,
+        lkg:F28_NFSR5,
+        lkg:F28_NFUK71,
+        lkg:F28_NFZH8,
+        lkg:F28_u_NFPL1138_NFPL1139 ;
+    lrm:R3_is_realised_in lkg:F2_NFCS24,
+        lkg:F2_NFDE126,
+        lkg:F2_NFDE166,
+        lkg:F2_NFDE187,
+        lkg:F2_NFDE204,
+        lkg:F2_NFDE220,
+        lkg:F2_NFDE291,
+        lkg:F2_NFDE395,
+        lkg:F2_NFDE448,
+        lkg:F2_NFDE472,
+        lkg:F2_NFDE521,
+        lkg:F2_NFEN187,
+        lkg:F2_NFEN188,
+        lkg:F2_NFES39,
+        lkg:F2_NFHU3,
+        lkg:F2_NFHU8,
+        lkg:F2_NFIT11,
+        lkg:F2_NFIT12,
+        lkg:F2_NFIT13,
+        lkg:F2_NFLV17,
+        lkg:F2_NFPL1522,
+        lkg:F2_NFPL2335,
+        lkg:F2_NFPL2413,
+        lkg:F2_NFPL301,
+        lkg:F2_NFPL329,
+        lkg:F2_NFPL436,
+        lkg:F2_NFPL601,
+        lkg:F2_NFRU230,
+        lkg:F2_NFRU435,
+        lkg:F2_NFRU436,
+        lkg:F2_NFRU492,
+        lkg:F2_NFRU493,
+        lkg:F2_NFRU494,
+        lkg:F2_NFRU559,
+        lkg:F2_NFRU560,
+        lkg:F2_NFRU584,
+        lkg:F2_NFRU585,
+        lkg:F2_NFRU616,
+        lkg:F2_NFRU617,
+        lkg:F2_NFRU70,
+        lkg:F2_NFRU715,
+        lkg:F2_NFRU729,
+        lkg:F2_NFRU731,
+        lkg:F2_NFRU737.1,
+        lkg:F2_NFRU747,
+        lkg:F2_NFRU756,
+        lkg:F2_NFRU762,
+        lkg:F2_NFRU775,
+        lkg:F2_NFRU786,
+        lkg:F2_NFSR5,
+        lkg:F2_NFUK71,
+        lkg:F2_NFZH8,
+        lkg:F2_u_NFPL1138_NFPL1139 ;
+    crm:P102_has_title lkg:E35_12867 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Summa technologiae" ;
+    skos:hiddenLabel "1.0"^^xsd:float ;
+    skos:prefLabel "Summa technologiae" .
+
+lkg:F1_MON10 a lrm:F1_Work ;
+    rdfs:label "F1 Golem XIV (YID: MON10)" ;
+    lrm:R16i_was_created_by lkg:F27_MON10 ;
+    lrm:R19i_was_realised_through lkg:F28_NFCS15,
+        lkg:F28_NFDE122,
+        lkg:F28_NFDE123,
+        lkg:F28_NFDE159,
+        lkg:F28_NFDE203,
+        lkg:F28_NFDE225,
+        lkg:F28_NFDE254,
+        lkg:F28_NFDE286,
+        lkg:F28_NFDE307,
+        lkg:F28_NFDE337,
+        lkg:F28_NFDE393,
+        lkg:F28_NFDE409,
+        lkg:F28_NFDE434,
+        lkg:F28_NFDE458,
+        lkg:F28_NFDE475,
+        lkg:F28_NFDE489,
+        lkg:F28_NFDE500,
+        lkg:F28_NFDE507,
+        lkg:F28_NFDE508,
+        lkg:F28_NFDE522,
+        lkg:F28_NFEN100,
+        lkg:F28_NFEN101,
+        lkg:F28_NFEN124,
+        lkg:F28_NFEN95,
+        lkg:F28_NFES32,
+        lkg:F28_NFES35,
+        lkg:F28_NFES40,
+        lkg:F28_NFES42,
+        lkg:F28_NFES6,
+        lkg:F28_NFES8,
+        lkg:F28_NFHU20,
+        lkg:F28_NFIT7,
+        lkg:F28_NFIT8.3,
+        lkg:F28_NFJA24,
+        lkg:F28_NFPL1434,
+        lkg:F28_NFPL2323,
+        lkg:F28_NFPL2417,
+        lkg:F28_NFPL2451,
+        lkg:F28_NFPL423,
+        lkg:F28_NFPL437,
+        lkg:F28_NFPL575,
+        lkg:F28_NFPL605,
+        lkg:F28_NFRO6,
+        lkg:F28_NFRU138,
+        lkg:F28_NFRU209,
+        lkg:F28_NFRU434,
+        lkg:F28_NFRU489,
+        lkg:F28_NFRU490,
+        lkg:F28_NFRU515,
+        lkg:F28_NFRU516,
+        lkg:F28_NFRU600,
+        lkg:F28_NFRU601,
+        lkg:F28_NFRU602,
+        lkg:F28_NFRU738,
+        lkg:F28_NFRU746,
+        lkg:F28_NFRU751,
+        lkg:F28_NFSK7,
+        lkg:F28_NFTR3,
+        lkg:F28_NFUK11,
+        lkg:F28_NFUK13,
+        lkg:F28_NFUK24,
+        lkg:F28_NFUK52,
+        lkg:F28_NFUK55,
+        lkg:F28_NFUK56,
+        lkg:F28_NFUK57 ;
+    lrm:R3_is_realised_in lkg:F2_NFCS15,
+        lkg:F2_NFDE122,
+        lkg:F2_NFDE123,
+        lkg:F2_NFDE159,
+        lkg:F2_NFDE203,
+        lkg:F2_NFDE225,
+        lkg:F2_NFDE254,
+        lkg:F2_NFDE286,
+        lkg:F2_NFDE307,
+        lkg:F2_NFDE337,
+        lkg:F2_NFDE393,
+        lkg:F2_NFDE409,
+        lkg:F2_NFDE434,
+        lkg:F2_NFDE458,
+        lkg:F2_NFDE475,
+        lkg:F2_NFDE489,
+        lkg:F2_NFDE500,
+        lkg:F2_NFDE507,
+        lkg:F2_NFDE508,
+        lkg:F2_NFDE522,
+        lkg:F2_NFEN100,
+        lkg:F2_NFEN101,
+        lkg:F2_NFEN124,
+        lkg:F2_NFEN95,
+        lkg:F2_NFES32,
+        lkg:F2_NFES35,
+        lkg:F2_NFES40,
+        lkg:F2_NFES42,
+        lkg:F2_NFES6,
+        lkg:F2_NFES8,
+        lkg:F2_NFHU20,
+        lkg:F2_NFIT7,
+        lkg:F2_NFIT8.3,
+        lkg:F2_NFJA24,
+        lkg:F2_NFPL1434,
+        lkg:F2_NFPL2323,
+        lkg:F2_NFPL2417,
+        lkg:F2_NFPL2451,
+        lkg:F2_NFPL423,
+        lkg:F2_NFPL437,
+        lkg:F2_NFPL575,
+        lkg:F2_NFPL605,
+        lkg:F2_NFRO6,
+        lkg:F2_NFRU138,
+        lkg:F2_NFRU209,
+        lkg:F2_NFRU434,
+        lkg:F2_NFRU489,
+        lkg:F2_NFRU490,
+        lkg:F2_NFRU515,
+        lkg:F2_NFRU516,
+        lkg:F2_NFRU600,
+        lkg:F2_NFRU601,
+        lkg:F2_NFRU602,
+        lkg:F2_NFRU738,
+        lkg:F2_NFRU746,
+        lkg:F2_NFRU751,
+        lkg:F2_NFSK7,
+        lkg:F2_NFTR3,
+        lkg:F2_NFUK11,
+        lkg:F2_NFUK13,
+        lkg:F2_NFUK24,
+        lkg:F2_NFUK52,
+        lkg:F2_NFUK55,
+        lkg:F2_NFUK56,
+        lkg:F2_NFUK57 ;
+    crm:P102_has_title lkg:E35_12898 ;
+    crm:P72_has_language lkg:E56_pol ;
+    skos:altLabel "Golem XIV" ;
+    skos:hiddenLabel "9.0"^^xsd:float ;
+    skos:prefLabel "Golem XIV" .
+

@@ -1,0 +1,1082 @@
+@prefix lkg: <http://lkg.org.pl/ns/lkg-core/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+lkg:E21_P0 owl:sameAs wd:Q6530 .
+
+lkg:E21_P1032 owl:sameAs wd:Q171091 .
+
+lkg:E21_P1058 owl:sameAs wd:Q4162692 .
+
+lkg:E21_P1060 owl:sameAs wd:Q513150 .
+
+lkg:E21_P1126 owl:sameAs wd:Q121167 .
+
+lkg:E21_P1137 owl:sameAs wd:Q11814025 .
+
+lkg:E21_P1144 owl:sameAs wd:Q4171410 .
+
+lkg:E21_P1204 owl:sameAs wd:Q44584 .
+
+lkg:E21_P1260 owl:sameAs wd:Q78497 .
+
+lkg:E21_P1263 owl:sameAs wd:Q9359285 .
+
+lkg:E21_P1301 owl:sameAs wd:Q9145382 .
+
+lkg:E21_P146 owl:sameAs wd:Q34981 .
+
+lkg:E21_P1499 owl:sameAs wd:Q4977554 .
+
+lkg:E21_P1550 owl:sameAs wd:Q275175 .
+
+lkg:E21_P1555 owl:sameAs wd:Q11717562 .
+
+lkg:E21_P1592 owl:sameAs wd:Q721032 .
+
+lkg:E21_P1603 owl:sameAs wd:Q823528 .
+
+lkg:E21_P1620 owl:sameAs wd:Q94831593 .
+
+lkg:E21_P1632 owl:sameAs wd:Q4150220 .
+
+lkg:E21_P1671 owl:sameAs wd:Q372210 .
+
+lkg:E21_P1751 owl:sameAs wd:Q101123 .
+
+lkg:E21_P1770 owl:sameAs wd:Q4953004 .
+
+lkg:E21_P1793 owl:sameAs wd:Q565279 .
+
+lkg:E21_P1798 owl:sameAs wd:Q6320517 .
+
+lkg:E21_P1801 owl:sameAs wd:Q107340915 .
+
+lkg:E21_P1867 owl:sameAs wd:Q130486404 .
+
+lkg:E21_P1931 owl:sameAs wd:Q9312325 .
+
+lkg:E21_P1949 owl:sameAs wd:Q11765390 .
+
+lkg:E21_P1999 owl:sameAs wd:Q963715 .
+
+lkg:E21_P2010 owl:sameAs wd:Q94764894 .
+
+lkg:E21_P2013 owl:sameAs wd:Q11736977 .
+
+lkg:E21_P2028 owl:sameAs wd:Q11724753 .
+
+lkg:E21_P2053 owl:sameAs wd:Q2384644 .
+
+lkg:E21_P2119 owl:sameAs wd:Q4207127 .
+
+lkg:E21_P2128 owl:sameAs wd:Q4208765 .
+
+lkg:E21_P2153 owl:sameAs wd:Q8191787 .
+
+lkg:E21_P2234 owl:sameAs wd:Q112463472 .
+
+lkg:E21_P2248 owl:sameAs wd:Q27915507 .
+
+lkg:E21_P2297 owl:sameAs wd:Q11716929 .
+
+lkg:E21_P2301 owl:sameAs wd:Q2125534 .
+
+lkg:E21_P2309 owl:sameAs wd:Q9352663 .
+
+lkg:E21_P2337 owl:sameAs wd:Q11778897 .
+
+lkg:E21_P2386 owl:sameAs wd:Q516786 .
+
+lkg:E21_P2391 owl:sameAs wd:Q11730608 .
+
+lkg:E21_P2416 owl:sameAs wd:Q111021003 .
+
+lkg:E21_P2419 owl:sameAs wd:Q15922432 .
+
+lkg:E21_P2424 owl:sameAs wd:Q1123315 .
+
+lkg:E21_P247 owl:sameAs wd:Q381185 .
+
+lkg:E21_P2530 owl:sameAs wd:Q11724948 .
+
+lkg:E21_P2606 owl:sameAs wd:Q181659 .
+
+lkg:E21_P2643 owl:sameAs wd:Q108696246 .
+
+lkg:E21_P2646 owl:sameAs wd:Q4257785 .
+
+lkg:E21_P2649 owl:sameAs wd:Q75027 .
+
+lkg:E21_P2674 owl:sameAs wd:Q891324 .
+
+lkg:E21_P2683 owl:sameAs wd:Q1560415 .
+
+lkg:E21_P2725 owl:sameAs wd:Q452723 .
+
+lkg:E21_P2782 owl:sameAs wd:Q1859928 .
+
+lkg:E21_P2814 owl:sameAs wd:Q1078120 .
+
+lkg:E21_P2823 owl:sameAs wd:Q9382727 .
+
+lkg:E21_P2852 owl:sameAs wd:Q110224764 .
+
+lkg:E21_P2932 owl:sameAs wd:Q95342657 .
+
+lkg:E21_P3023 owl:sameAs wd:Q652558 .
+
+lkg:E21_P3041 owl:sameAs wd:Q163714 .
+
+lkg:E21_P3087 owl:sameAs wd:Q45970 .
+
+lkg:E21_P318 owl:sameAs wd:Q9341588 .
+
+lkg:E21_P3185 owl:sameAs wd:Q18832 .
+
+lkg:E21_P3193 owl:sameAs wd:Q66501482 .
+
+lkg:E21_P3199 owl:sameAs wd:Q1179974 .
+
+lkg:E21_P3223 owl:sameAs wd:Q11749545 .
+
+lkg:E21_P3233 owl:sameAs wd:Q11817869 .
+
+lkg:E21_P3325 owl:sameAs wd:Q4327924 .
+
+lkg:E21_P3326 owl:sameAs wd:Q11554641 .
+
+lkg:E21_P3336 owl:sameAs wd:Q9342699 .
+
+lkg:E21_P3355 owl:sameAs wd:Q11814296 .
+
+lkg:E21_P3356 owl:sameAs wd:Q17709114 .
+
+lkg:E21_P3381 owl:sameAs wd:Q1894619 .
+
+lkg:E21_P3390 owl:sameAs wd:Q8029137 .
+
+lkg:E21_P350 owl:sameAs wd:Q108867824 .
+
+lkg:E21_P356 owl:sameAs wd:Q4085902 .
+
+lkg:E21_P369 owl:sameAs wd:Q11770068 .
+
+lkg:E21_P3816 owl:sameAs wd:Q9342925 .
+
+lkg:E21_P3824 owl:sameAs wd:Q133029347 .
+
+lkg:E21_P387 owl:sameAs wd:Q9027308 .
+
+lkg:E21_P3908 owl:sameAs wd:Q66591699 .
+
+lkg:E21_P3925 owl:sameAs wd:Q11720431 .
+
+lkg:E21_P3929 owl:sameAs wd:Q89370 .
+
+lkg:E21_P3982 owl:sameAs wd:Q93113110 .
+
+lkg:E21_P4044 owl:sameAs wd:Q19279754 .
+
+lkg:E21_P406 owl:sameAs wd:Q9387777 .
+
+lkg:E21_P4086 owl:sameAs wd:Q111024783 .
+
+lkg:E21_P4171 owl:sameAs wd:Q55629246 .
+
+lkg:E21_P4183 owl:sameAs wd:Q12024056 .
+
+lkg:E21_P4225 owl:sameAs wd:Q598050 .
+
+lkg:E21_P423 owl:sameAs wd:Q6148665 .
+
+lkg:E21_P4251 owl:sameAs wd:Q17544602 .
+
+lkg:E21_P4310 owl:sameAs wd:Q94852041 .
+
+lkg:E21_P4430 owl:sameAs wd:Q4445122 .
+
+lkg:E21_P4469 owl:sameAs wd:Q11717849 .
+
+lkg:E21_P4472 owl:sameAs wd:Q11727539 .
+
+lkg:E21_P4484 owl:sameAs wd:Q4523055 .
+
+lkg:E21_P4493 owl:sameAs wd:Q112538943 .
+
+lkg:E21_P4505 owl:sameAs wd:Q11772387 .
+
+lkg:E21_P4519 owl:sameAs wd:Q42552 .
+
+lkg:E21_P4523 owl:sameAs wd:Q581748 .
+
+lkg:E21_P4585 owl:sameAs wd:Q22694300 .
+
+lkg:E21_P464 owl:sameAs wd:Q79683592 .
+
+lkg:E21_P4649 owl:sameAs wd:Q5800412 .
+
+lkg:E21_P472 owl:sameAs wd:Q4093843 .
+
+lkg:E21_P4747 owl:sameAs wd:Q187907 .
+
+lkg:E21_P4786 owl:sameAs wd:Q1169494 .
+
+lkg:E21_P4797 owl:sameAs wd:Q106685 .
+
+lkg:E21_P4799 owl:sameAs wd:Q4102550 .
+
+lkg:E21_P4802 owl:sameAs wd:Q9357377 .
+
+lkg:E21_P4873 owl:sameAs wd:Q22303261 .
+
+lkg:E21_P4891 owl:sameAs wd:Q42511 .
+
+lkg:E21_P4893 owl:sameAs wd:Q42529418 .
+
+lkg:E21_P4900 owl:sameAs wd:Q126446 .
+
+lkg:E21_P4919 owl:sameAs wd:Q11719881 .
+
+lkg:E21_P4991 owl:sameAs wd:Q3180512 .
+
+lkg:E21_P5012 owl:sameAs wd:Q11749799 .
+
+lkg:E21_P5062 owl:sameAs wd:Q11768590 .
+
+lkg:E21_P5083 owl:sameAs wd:Q4188784 .
+
+lkg:E21_P512 owl:sameAs wd:Q9344896 .
+
+lkg:E21_P5171 owl:sameAs wd:Q1676938 .
+
+lkg:E21_P5188 owl:sameAs wd:Q1373117 .
+
+lkg:E21_P5200 owl:sameAs wd:Q8693637 .
+
+lkg:E21_P5201 owl:sameAs wd:Q11716897 .
+
+lkg:E21_P5204 owl:sameAs wd:Q16403480 .
+
+lkg:E21_P5215 owl:sameAs wd:Q112485786 .
+
+lkg:E21_P5224 owl:sameAs wd:Q9324579 .
+
+lkg:E21_P5233 owl:sameAs wd:Q6220532 .
+
+lkg:E21_P5234 owl:sameAs wd:Q105696969 .
+
+lkg:E21_P5237 owl:sameAs wd:Q112453948 .
+
+lkg:E21_P5243 owl:sameAs wd:Q20856119 .
+
+lkg:E21_P5262 owl:sameAs wd:Q99204 .
+
+lkg:E21_P5263 owl:sameAs wd:Q9375593 .
+
+lkg:E21_P5278 owl:sameAs wd:Q56255888 .
+
+lkg:E21_P5282 owl:sameAs wd:Q111434061 .
+
+lkg:E21_P5286 owl:sameAs wd:Q60853146 .
+
+lkg:E21_P5299 owl:sameAs wd:Q112419101 .
+
+lkg:E21_P5319 owl:sameAs wd:Q1158494 .
+
+lkg:E21_P533 owl:sameAs wd:Q95305031 .
+
+lkg:E21_P5352 owl:sameAs wd:Q9151767 .
+
+lkg:E21_P5354 owl:sameAs wd:Q2422974 .
+
+lkg:E21_P5374 owl:sameAs wd:Q11768078 .
+
+lkg:E21_P5378 owl:sameAs wd:Q18424598 .
+
+lkg:E21_P5379 owl:sameAs wd:Q9165322 .
+
+lkg:E21_P5382 owl:sameAs wd:Q9373665 .
+
+lkg:E21_P5383 owl:sameAs wd:Q24431304 .
+
+lkg:E21_P5389 owl:sameAs wd:Q6078528 .
+
+lkg:E21_P5397 owl:sameAs wd:Q13091127 .
+
+lkg:E21_P5405 owl:sameAs wd:Q62098484 .
+
+lkg:E21_P5413 owl:sameAs wd:Q133687247 .
+
+lkg:E21_P5417 owl:sameAs wd:Q7944829 .
+
+lkg:E21_P5425 owl:sameAs wd:Q104398418 .
+
+lkg:E21_P5434 owl:sameAs wd:Q11734509 .
+
+lkg:E21_P5437 owl:sameAs wd:Q95305291 .
+
+lkg:E21_P5440 owl:sameAs wd:Q112370390 .
+
+lkg:E21_P5456 owl:sameAs wd:Q20961814 .
+
+lkg:E21_P5458 owl:sameAs wd:Q20923280 .
+
+lkg:E21_P5461 owl:sameAs wd:Q520733 .
+
+lkg:E21_P5463 owl:sameAs wd:Q106839417 .
+
+lkg:E21_P5472 owl:sameAs wd:Q10304367 .
+
+lkg:E21_P5481 owl:sameAs wd:Q11814042 .
+
+lkg:E21_P5487 owl:sameAs wd:Q11560270 .
+
+lkg:E21_P5488 owl:sameAs wd:Q11626522 .
+
+lkg:E21_P5489 owl:sameAs wd:Q95949516 .
+
+lkg:E21_P5495 owl:sameAs wd:Q9176114 .
+
+lkg:E21_P5498 owl:sameAs wd:Q9142253 .
+
+lkg:E21_P5499 owl:sameAs wd:Q89098377 .
+
+lkg:E21_P5500 owl:sameAs wd:Q11739441 .
+
+lkg:E21_P5505 owl:sameAs wd:Q113818251 .
+
+lkg:E21_P5508 owl:sameAs wd:Q725797 .
+
+lkg:E21_P5509 owl:sameAs wd:Q108883582 .
+
+lkg:E21_P5512 owl:sameAs wd:Q1702052 .
+
+lkg:E21_P574 owl:sameAs wd:Q4097233 .
+
+lkg:E21_P7 owl:sameAs wd:Q723591 .
+
+lkg:E21_P785 owl:sameAs wd:Q24263330 .
+
+lkg:E21_P799 owl:sameAs wd:Q1233474 .
+
+lkg:E21_P810 owl:sameAs wd:Q63257385 .
+
+lkg:E21_P886 owl:sameAs wd:Q66553672 .
+
+lkg:E21_P910 owl:sameAs wd:Q11828895 .
+
+lkg:E21_P92 owl:sameAs wd:Q84167284 .
+
+lkg:E21_P944 owl:sameAs wd:Q4518521 .
+
+lkg:E21_P96 owl:sameAs wd:Q452371 .
+
+lkg:E21_P996 owl:sameAs wd:Q74252 .
+
+lkg:F11_C0 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C1 owl:sameAs wd:Q355301 .
+
+lkg:F11_C10 owl:sameAs wd:Q131416750 .
+
+lkg:F11_C100 owl:sameAs wd:Q97171763 .
+
+lkg:F11_C101 owl:sameAs wd:Q116182250 .
+
+lkg:F11_C104 owl:sameAs wd:Q28911437 .
+
+lkg:F11_C105 owl:sameAs wd:Q18564348 .
+
+lkg:F11_C106 owl:sameAs wd:Q316015 .
+
+lkg:F11_C107 owl:sameAs wd:Q79803424 .
+
+lkg:F11_C108 owl:sameAs wd:Q11713098 .
+
+lkg:F11_C109 owl:sameAs wd:Q65166887 .
+
+lkg:F11_C110 owl:sameAs wd:Q705173 .
+
+lkg:F11_C112 owl:sameAs wd:Q11714162 .
+
+lkg:F11_C114 owl:sameAs wd:Q1713617 .
+
+lkg:F11_C115 owl:sameAs wd:Q20440003 .
+
+lkg:F11_C117 owl:sameAs wd:Q1729481 .
+
+lkg:F11_C118 owl:sameAs wd:Q11553504 .
+
+lkg:F11_C119 owl:sameAs wd:Q108272891 .
+
+lkg:F11_C120 owl:sameAs wd:Q1444698 .
+
+lkg:F11_C121 owl:sameAs wd:Q176916 .
+
+lkg:F11_C122 owl:sameAs wd:Q66756089 .
+
+lkg:F11_C124 owl:sameAs wd:Q1431868 .
+
+lkg:F11_C127 owl:sameAs wd:Q1119450 .
+
+lkg:F11_C128 owl:sameAs wd:Q56410576 .
+
+lkg:F11_C129 owl:sameAs wd:Q11747768 .
+
+lkg:F11_C131 owl:sameAs wd:Q285186 .
+
+lkg:F11_C132 owl:sameAs wd:Q2645334 .
+
+lkg:F11_C133 owl:sameAs wd:Q11750492 .
+
+lkg:F11_C134 owl:sameAs wd:Q48860749 .
+
+lkg:F11_C137 owl:sameAs wd:Q571831 .
+
+lkg:F11_C139 owl:sameAs wd:Q11752733 .
+
+lkg:F11_C140 owl:sameAs wd:Q669937 .
+
+lkg:F11_C142 owl:sameAs wd:Q20563417 .
+
+lkg:F11_C143 owl:sameAs wd:Q131753237 .
+
+lkg:F11_C144 owl:sameAs wd:Q1327220 .
+
+lkg:F11_C145 owl:sameAs wd:Q3256566 .
+
+lkg:F11_C146 owl:sameAs wd:Q6658601 .
+
+lkg:F11_C148 owl:sameAs wd:Q1465172 .
+
+lkg:F11_C149 owl:sameAs wd:Q6703583 .
+
+lkg:F11_C150 owl:sameAs wd:Q2108217 .
+
+lkg:F11_C151 owl:sameAs wd:Q123371797 .
+
+lkg:F11_C153 owl:sameAs wd:Q11770477 .
+
+lkg:F11_C154 owl:sameAs wd:Q1909420 .
+
+lkg:F11_C155 owl:sameAs wd:Q1270338 .
+
+lkg:F11_C156 owl:sameAs wd:Q6801272 .
+
+lkg:F11_C17 owl:sameAs wd:Q4034881 .
+
+lkg:F11_C18 owl:sameAs wd:Q4875979 .
+
+lkg:F11_C20 owl:sameAs wd:Q2516804 .
+
+lkg:F11_C24 owl:sameAs wd:Q2753848 .
+
+lkg:F11_C25 owl:sameAs wd:Q31897809 .
+
+lkg:F11_C27 owl:sameAs wd:Q108123368 .
+
+lkg:F11_C28 owl:sameAs wd:Q3641749 .
+
+lkg:F11_C29 owl:sameAs wd:Q891464 .
+
+lkg:F11_C31 owl:sameAs wd:Q130481450 .
+
+lkg:F11_C33 owl:sameAs wd:Q3275000 .
+
+lkg:F11_C34 owl:sameAs wd:Q36581020 .
+
+lkg:F11_C37 owl:sameAs wd:Q74445875 .
+
+lkg:F11_C38 owl:sameAs wd:Q3231217 .
+
+lkg:F11_C39 owl:sameAs wd:Q1027814 .
+
+lkg:F11_C4 owl:sameAs wd:Q18537303 .
+
+lkg:F11_C40 owl:sameAs wd:Q896783 .
+
+lkg:F11_C41 owl:sameAs wd:Q6629012 .
+
+lkg:F11_C42 owl:sameAs wd:Q31191750 .
+
+lkg:F11_C43 owl:sameAs wd:Q1058080 .
+
+lkg:F11_C44 owl:sameAs wd:Q10263193 .
+
+lkg:F11_C443 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C444 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C445 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C446 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C447 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C448 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C449 owl:sameAs wd:Q5654997 .
+
+lkg:F11_C451 owl:sameAs wd:Q301273 .
+
+lkg:F11_C452 owl:sameAs wd:Q9138986 .
+
+lkg:F11_C455 owl:sameAs wd:Q9378263 .
+
+lkg:F11_C456 owl:sameAs wd:Q424509 .
+
+lkg:F11_C46 owl:sameAs wd:Q5152062 .
+
+lkg:F11_C460 owl:sameAs wd:Q991271 .
+
+lkg:F11_C463 owl:sameAs wd:Q627083 .
+
+lkg:F11_C466 owl:sameAs wd:Q4797561 .
+
+lkg:F11_C467 owl:sameAs wd:Q15511781 .
+
+lkg:F11_C47 owl:sameAs wd:Q5152520 .
+
+lkg:F11_C472 owl:sameAs wd:Q10185 .
+
+lkg:F11_C473 owl:sameAs wd:Q10190 .
+
+lkg:F11_C477 owl:sameAs wd:Q86662985 .
+
+lkg:F11_C478 owl:sameAs wd:Q2902078 .
+
+lkg:F11_C479 owl:sameAs wd:Q156203 .
+
+lkg:F11_C48 owl:sameAs wd:Q2277384 .
+
+lkg:F11_C482 owl:sameAs wd:Q895457 .
+
+lkg:F11_C483 owl:sameAs wd:Q920557 .
+
+lkg:F11_C484 owl:sameAs wd:Q4978775 .
+
+lkg:F11_C485 owl:sameAs wd:Q998722 .
+
+lkg:F11_C487 owl:sameAs wd:Q1019995 .
+
+lkg:F11_C49 owl:sameAs wd:Q4036513 .
+
+lkg:F11_C491 owl:sameAs wd:Q48840333 .
+
+lkg:F11_C493 owl:sameAs wd:Q96698919 .
+
+lkg:F11_C495 owl:sameAs wd:Q10444862 .
+
+lkg:F11_C496 owl:sameAs wd:Q2966736 .
+
+lkg:F11_C497 owl:sameAs wd:Q781987 .
+
+lkg:F11_C499 owl:sameAs wd:Q115931716 .
+
+lkg:F11_C5 owl:sameAs wd:Q43216480 .
+
+lkg:F11_C50 owl:sameAs wd:Q42916739 .
+
+lkg:F11_C502 owl:sameAs wd:Q1137712 .
+
+lkg:F11_C503 owl:sameAs wd:Q110390049 .
+
+lkg:F11_C504 owl:sameAs wd:Q9198340 .
+
+lkg:F11_C506 owl:sameAs wd:Q12652052 .
+
+lkg:F11_C507 owl:sameAs wd:Q4045103 .
+
+lkg:F11_C508 owl:sameAs wd:Q5208132 .
+
+lkg:F11_C51 owl:sameAs wd:Q9379195 .
+
+lkg:F11_C514 owl:sameAs wd:Q2487606 .
+
+lkg:F11_C515 owl:sameAs wd:Q9203384 .
+
+lkg:F11_C517 owl:sameAs wd:Q1192057 .
+
+lkg:F11_C519 owl:sameAs wd:Q1192866 .
+
+lkg:F11_C520 owl:sameAs wd:Q999158 .
+
+lkg:F11_C521 owl:sameAs wd:Q2675036 .
+
+lkg:F11_C522 owl:sameAs wd:Q131478 .
+
+lkg:F11_C523 owl:sameAs wd:Q128660 .
+
+lkg:F11_C524 owl:sameAs wd:Q10189 .
+
+lkg:F11_C525 owl:sameAs wd:Q3391589 .
+
+lkg:F11_C528 owl:sameAs wd:Q27717054 .
+
+lkg:F11_C529 owl:sameAs wd:Q5270577 .
+
+lkg:F11_C53 owl:sameAs wd:Q12016595 .
+
+lkg:F11_C530 owl:sameAs wd:Q15752637 .
+
+lkg:F11_C531 owl:sameAs wd:Q1212798 .
+
+lkg:F11_C532 owl:sameAs wd:Q59282145 .
+
+lkg:F11_C533 owl:sameAs wd:Q1217017 .
+
+lkg:F11_C534 owl:sameAs wd:Q108175854 .
+
+lkg:F11_C535 owl:sameAs wd:Q29872 .
+
+lkg:F11_C536 owl:sameAs wd:Q29872 .
+
+lkg:F11_C537 owl:sameAs wd:Q870443 .
+
+lkg:F11_C539 owl:sameAs wd:Q157142 .
+
+lkg:F11_C54 owl:sameAs wd:Q2516632 .
+
+lkg:F11_C540 owl:sameAs wd:Q924512 .
+
+lkg:F11_C542 owl:sameAs wd:Q733742 .
+
+lkg:F11_C544 owl:sameAs wd:Q9209465 .
+
+lkg:F11_C545 owl:sameAs wd:Q16540948 .
+
+lkg:F11_C546 owl:sameAs wd:Q5319798 .
+
+lkg:F11_C547 owl:sameAs wd:Q9248485 .
+
+lkg:F11_C549 owl:sameAs wd:Q5319799 .
+
+lkg:F11_C550 owl:sameAs wd:Q5319800 .
+
+lkg:F11_C551 owl:sameAs wd:Q9248493 .
+
+lkg:F11_C552 owl:sameAs wd:Q9248527 .
+
+lkg:F11_C553 owl:sameAs wd:Q4707862 .
+
+lkg:F11_C554 owl:sameAs wd:Q5319802 .
+
+lkg:F11_C555 owl:sameAs wd:Q9248542 .
+
+lkg:F11_C557 owl:sameAs wd:Q9248911 .
+
+lkg:F11_C558 owl:sameAs wd:Q154020 .
+
+lkg:F11_C56 owl:sameAs wd:Q994470 .
+
+lkg:F11_C560 owl:sameAs wd:Q9250208 .
+
+lkg:F11_C562 owl:sameAs wd:Q5332697 .
+
+lkg:F11_C563 owl:sameAs wd:Q1282115 .
+
+lkg:F11_C564 owl:sameAs wd:Q25303124 .
+
+lkg:F11_C567 owl:sameAs wd:Q9251917 .
+
+lkg:F11_C568 owl:sameAs wd:Q5821672 .
+
+lkg:F11_C569 owl:sameAs wd:Q5823015 .
+
+lkg:F11_C570 owl:sameAs wd:Q28703106 .
+
+lkg:F11_C572 owl:sameAs wd:Q1368412 .
+
+lkg:F11_C573 owl:sameAs wd:Q3561262 .
+
+lkg:F11_C579 owl:sameAs wd:Q9257158 .
+
+lkg:F11_C58 owl:sameAs wd:Q1204376 .
+
+lkg:F11_C580 owl:sameAs wd:Q1385155 .
+
+lkg:F11_C581 owl:sameAs wd:Q836469 .
+
+lkg:F11_C582 owl:sameAs wd:Q1389409 .
+
+lkg:F11_C584 owl:sameAs wd:Q1394979 .
+
+lkg:F11_C586 owl:sameAs wd:Q5434252 .
+
+lkg:F11_C588 owl:sameAs wd:Q1706835 .
+
+lkg:F11_C59 owl:sameAs wd:Q1205894 .
+
+lkg:F11_C590 owl:sameAs wd:Q5449209 .
+
+lkg:F11_C591 owl:sameAs wd:Q21499691 .
+
+lkg:F11_C592 owl:sameAs wd:Q5463907 .
+
+lkg:F11_C593 owl:sameAs wd:Q1435379 .
+
+lkg:F11_C594 owl:sameAs wd:Q9261850 .
+
+lkg:F11_C596 owl:sameAs wd:Q10184 .
+
+lkg:F11_C597 owl:sameAs wd:Q10184 .
+
+lkg:F11_C598 owl:sameAs wd:Q326068 .
+
+lkg:F11_C6 owl:sameAs wd:Q414034 .
+
+lkg:F11_C601 owl:sameAs wd:Q3094529 .
+
+lkg:F11_C602 owl:sameAs wd:Q1492703 .
+
+lkg:F11_C603 owl:sameAs wd:Q5529098 .
+
+lkg:F11_C605 owl:sameAs wd:Q5529088 .
+
+lkg:F11_C606 owl:sameAs wd:Q1496625 .
+
+lkg:F11_C607 owl:sameAs wd:Q5529090 .
+
+lkg:F11_C608 owl:sameAs wd:Q9266382 .
+
+lkg:F11_C609 owl:sameAs wd:Q9266388 .
+
+lkg:F11_C61 owl:sameAs wd:Q50999267 .
+
+lkg:F11_C610 owl:sameAs wd:Q11699484 .
+
+lkg:F11_C611 owl:sameAs wd:Q9266392 .
+
+lkg:F11_C612 owl:sameAs wd:Q9266402 .
+
+lkg:F11_C613 owl:sameAs wd:Q9266416 .
+
+lkg:F11_C614 owl:sameAs wd:Q741296 .
+
+lkg:F11_C615 owl:sameAs wd:Q16064792 .
+
+lkg:F11_C616 owl:sameAs wd:Q5879417 .
+
+lkg:F11_C617 owl:sameAs wd:Q24948725 .
+
+lkg:F11_C618 owl:sameAs wd:Q18425090 .
+
+lkg:F11_C619 owl:sameAs wd:Q9284180 .
+
+lkg:F11_C620 owl:sameAs wd:Q1031851 .
+
+lkg:F11_C622 owl:sameAs wd:Q86682322 .
+
+lkg:F11_C623 owl:sameAs wd:Q9284195 .
+
+lkg:F11_C624 owl:sameAs wd:Q9284207 .
+
+lkg:F11_C625 owl:sameAs wd:Q9284213 .
+
+lkg:F11_C626 owl:sameAs wd:Q9284180 .
+
+lkg:F11_C627 owl:sameAs wd:Q11703203 .
+
+lkg:F11_C628 owl:sameAs wd:Q9284216 .
+
+lkg:F11_C629 owl:sameAs wd:Q3920735 .
+
+lkg:F11_C63 owl:sameAs wd:Q9209465 .
+
+lkg:F11_C630 owl:sameAs wd:Q1576266 .
+
+lkg:F11_C631 owl:sameAs wd:Q1161952 .
+
+lkg:F11_C632 owl:sameAs wd:Q366921 .
+
+lkg:F11_C635 owl:sameAs wd:Q16409956 .
+
+lkg:F11_C636 owl:sameAs wd:Q30258618 .
+
+lkg:F11_C643 owl:sameAs wd:Q1660429 .
+
+lkg:F11_C647 owl:sameAs wd:Q96709841 .
+
+lkg:F11_C648 owl:sameAs wd:Q12364608 .
+
+lkg:F11_C649 owl:sameAs wd:Q100294968 .
+
+lkg:F11_C653 owl:sameAs wd:Q28722702 .
+
+lkg:F11_C654 owl:sameAs wd:Q11714279 .
+
+lkg:F11_C656 owl:sameAs wd:Q79009009 .
+
+lkg:F11_C657 owl:sameAs wd:Q101071369 .
+
+lkg:F11_C658 owl:sameAs wd:Q14467526 .
+
+lkg:F11_C664 owl:sameAs wd:Q1734318 .
+
+lkg:F11_C666 owl:sameAs wd:Q11739333 .
+
+lkg:F11_C667 owl:sameAs wd:Q12661051 .
+
+lkg:F11_C668 owl:sameAs wd:Q819384 .
+
+lkg:F11_C669 owl:sameAs wd:Q11747731 .
+
+lkg:F11_C67 owl:sameAs wd:Q10348794 .
+
+lkg:F11_C671 owl:sameAs wd:Q11748135 .
+
+lkg:F11_C672 owl:sameAs wd:Q11748304 .
+
+lkg:F11_C673 owl:sameAs wd:Q11748554 .
+
+lkg:F11_C674 owl:sameAs wd:Q11765966 .
+
+lkg:F11_C676 owl:sameAs wd:Q1750512 .
+
+lkg:F11_C678 owl:sameAs wd:Q12367720 .
+
+lkg:F11_C679 owl:sameAs wd:Q1646029 .
+
+lkg:F11_C68 owl:sameAs wd:Q3719249 .
+
+lkg:F11_C680 owl:sameAs wd:Q11751224 .
+
+lkg:F11_C682 owl:sameAs wd:Q11751230 .
+
+lkg:F11_C683 owl:sameAs wd:Q3847887 .
+
+lkg:F11_C684 owl:sameAs wd:Q11751234 .
+
+lkg:F11_C685 owl:sameAs wd:Q1793105 .
+
+lkg:F11_C687 owl:sameAs wd:Q11751487 .
+
+lkg:F11_C688 owl:sameAs wd:Q11751596 .
+
+lkg:F11_C689 owl:sameAs wd:Q11751599 .
+
+lkg:F11_C690 owl:sameAs wd:Q104356392 .
+
+lkg:F11_C691 owl:sameAs wd:Q895951 .
+
+lkg:F11_C692 owl:sameAs wd:Q3202646 .
+
+lkg:F11_C697 owl:sameAs wd:Q12032432 .
+
+lkg:F11_C698 owl:sameAs wd:Q571831 .
+
+lkg:F11_C699 owl:sameAs wd:Q11752729 .
+
+lkg:F11_C70 owl:sameAs wd:Q52636369 .
+
+lkg:F11_C701 owl:sameAs wd:Q138719 .
+
+lkg:F11_C702 owl:sameAs wd:Q3222488 .
+
+lkg:F11_C704 owl:sameAs wd:Q1821242 .
+
+lkg:F11_C705 owl:sameAs wd:Q108612080 .
+
+lkg:F11_C706 owl:sameAs wd:Q12033489 .
+
+lkg:F11_C707 owl:sameAs wd:Q918373 .
+
+lkg:F11_C708 owl:sameAs wd:Q11761887 .
+
+lkg:F11_C709 owl:sameAs wd:Q16459222 .
+
+lkg:F11_C71 owl:sameAs wd:Q52635598 .
+
+lkg:F11_C710 owl:sameAs wd:Q20530189 .
+
+lkg:F11_C711 owl:sameAs wd:Q12770434 .
+
+lkg:F11_C713 owl:sameAs wd:Q1433430 .
+
+lkg:F11_C715 owl:sameAs wd:Q922218 .
+
+lkg:F11_C717 owl:sameAs wd:Q81197190 .
+
+lkg:F11_C718 owl:sameAs wd:Q11765239 .
+
+lkg:F11_C722 owl:sameAs wd:Q338921 .
+
+lkg:F11_C723 owl:sameAs wd:Q11771310 .
+
+lkg:F11_C724 owl:sameAs wd:Q24525470 .
+
+lkg:F11_C726 owl:sameAs wd:Q895736 .
+
+lkg:F11_C728 owl:sameAs wd:Q12665189 .
+
+lkg:F11_C729 owl:sameAs wd:Q96324480 .
+
+lkg:F11_C76 owl:sameAs wd:Q993013 .
+
+lkg:F11_C77 owl:sameAs wd:Q20088183 .
+
+lkg:F11_C8 owl:sameAs wd:Q22809661 .
+
+lkg:F11_C80 owl:sameAs wd:Q10319325 .
+
+lkg:F11_C81 owl:sameAs wd:Q16993796 .
+
+lkg:F11_C82 owl:sameAs wd:Q5818634 .
+
+lkg:F11_C84 owl:sameAs wd:Q2077283 .
+
+lkg:F11_C86 owl:sameAs wd:Q9266573 .
+
+lkg:F11_C88 owl:sameAs wd:Q1011822 .
+
+lkg:F11_C89 owl:sameAs wd:Q5606574 .
+
+lkg:F11_C90 owl:sameAs wd:Q1244838 .
+
+lkg:F11_C93 owl:sameAs wd:Q3127696 .
+
+lkg:F11_C95 owl:sameAs wd:Q2904802 .
+
+lkg:F11_C96 owl:sameAs wd:Q2506077 .
+
+lkg:F1_MON1 owl:sameAs wd:Q4161033 .
+
+lkg:F1_MON10 owl:sameAs wd:Q1536250 .
+
+lkg:F1_MON2 owl:sameAs wd:Q1051225 .
+
+lkg:F1_MON3 owl:sameAs wd:Q9259833 .
+
+lkg:F1_MON4 owl:sameAs wd:Q9257955 .
+
+lkg:F1_MON5 owl:sameAs wd:Q9323288 .
+
+lkg:F1_MON6 owl:sameAs wd:Q9355312 .
+
+lkg:F1_MON8 owl:sameAs wd:Q9177158 .
+
+lkg:F1_MON9 owl:sameAs wd:Q1295961 .
+
+lkg:F1_NFCS42 owl:sameAs wd:Q9335800 .
+
+lkg:F1_NFDE277 owl:sameAs wd:Q11828065 .
+
+lkg:F1_NFDE320 owl:sameAs wd:Q11828065 .
+
+lkg:F1_NFDE538 owl:sameAs wd:Q110825226 .
+
+lkg:F1_NFEN161 owl:sameAs wd:Q1295961 .
+
+lkg:F1_NFEN184 owl:sameAs wd:Q11761832 .
+
+lkg:F1_NFEN186 owl:sameAs wd:Q24946313 .
+
+lkg:F1_NFEN217 owl:sameAs wd:Q110825226 .
+
+lkg:F1_NFFR13 owl:sameAs wd:Q11828065 .
+
+lkg:F1_NFHU26 owl:sameAs wd:Q642280 .
+
+lkg:F1_NFHU28 owl:sameAs wd:Q9335800 .
+
+lkg:F1_NFPL1050 owl:sameAs wd:Q11762977 .
+
+lkg:F1_NFPL1109 owl:sameAs wd:Q9355187 .
+
+lkg:F1_NFPL1198 owl:sameAs wd:Q9355187 .
+
+lkg:F1_NFPL1297 owl:sameAs wd:Q9248979 .
+
+lkg:F1_NFPL1501 owl:sameAs wd:Q9396214 .
+
+lkg:F1_NFPL1891 owl:sameAs wd:Q11761838 .
+
+lkg:F1_NFPL1974 owl:sameAs wd:Q642280 .
+
+lkg:F1_NFPL2039.2 owl:sameAs wd:Q9177158 .
+
+lkg:F1_NFPL2040 owl:sameAs wd:Q118876298 .
+
+lkg:F1_NFPL208 owl:sameAs wd:Q2661598 .
+
+lkg:F1_NFPL2132 owl:sameAs wd:Q9335800 .
+
+lkg:F1_NFPL2134 owl:sameAs wd:Q11750232 .
+
+lkg:F1_NFPL2282 owl:sameAs wd:Q4390098 .
+
+lkg:F1_NFPL2306 owl:sameAs wd:Q2042129 .
+
+lkg:F1_NFPL2337 owl:sameAs wd:Q9371892 .
+
+lkg:F1_NFPL2347 owl:sameAs wd:Q11761832 .
+
+lkg:F1_NFPL2358 owl:sameAs wd:Q24946313 .
+
+lkg:F1_NFPL2370 owl:sameAs wd:Q28671982 .
+
+lkg:F1_NFPL2399 owl:sameAs wd:Q60832895 .
+
+lkg:F1_NFPL2401 owl:sameAs wd:Q60833434 .
+
+lkg:F1_NFPL244 owl:sameAs wd:Q9371892 .
+
+lkg:F1_NFPL2445 owl:sameAs wd:Q110825226 .
+
+lkg:F1_NFPL2467 owl:sameAs wd:Q118876298 .
+
+lkg:F1_NFPL270 owl:sameAs wd:Q2661598 .
+
+lkg:F1_NFPL320 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFPL330 owl:sameAs wd:Q2661598 .
+
+lkg:F1_NFPL341 owl:sameAs wd:Q60833434 .
+
+lkg:F1_NFPL343 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFPL484 owl:sameAs wd:Q9380246 .
+
+lkg:F1_NFPL619 owl:sameAs wd:Q118876298 .
+
+lkg:F1_NFPL701 owl:sameAs wd:Q9380246 .
+
+lkg:F1_NFPL78 owl:sameAs wd:Q2661598 .
+
+lkg:F1_NFPL92 owl:sameAs wd:Q2661598 .
+
+lkg:F1_NFRU737 owl:sameAs wd:Q1051225 .
+
+lkg:F1_NFRU742 owl:sameAs wd:Q650297 .
+
+lkg:F1_NFRU745 owl:sameAs wd:Q1627253 .
+
+lkg:F1_NFRU752 owl:sameAs wd:Q118876298 .
+
+lkg:F1_NFRU763 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFRU771 owl:sameAs wd:Q11828065 .
+
+lkg:F1_NFRU773 owl:sameAs wd:Q1627253 .
+
+lkg:F1_NFRU784 owl:sameAs wd:Q1627253 .
+
+lkg:F1_NFUK32 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFUK45 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFUK48 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFUK49 owl:sameAs wd:Q8717304 .
+
+lkg:F1_NFUK50 owl:sameAs wd:Q1283523 .
+
+lkg:F1_NFUK53 owl:sameAs wd:Q4129317 .
+
+lkg:F1_NFUK65 owl:sameAs wd:Q931113 .
+
+lkg:F1_NFUK66 owl:sameAs wd:Q1217093 .
+
+lkg:F1_NFUK70 owl:sameAs wd:Q546271 .
+
