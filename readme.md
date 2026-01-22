@@ -6,7 +6,7 @@ With a ready environment and the source data files, a single run of the program 
 
 We also present an excerpt of the Yaznevich file for the reader to understand the challenges in processing this file and creating the graph:
 
-`Excerpt_yaznevich_file`: an excerpt from the full Yaznevich database and includes only information on editions and translations of Lem’s 1957 long essay Dialogues; the excerpt illustrates the structure of the main file.
+`Excerpt_yaznevich_file.xlsx`: an excerpt from the full Yaznevich database and includes only information on editions and translations of Lem’s 1957 long essay Dialogues; the excerpt illustrates the structure of the main file.
 
 ## 1. Installation and Running
 
