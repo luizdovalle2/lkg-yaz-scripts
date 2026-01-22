@@ -1,6 +1,6 @@
 # User Manual
 
-The Jaźniewicz database extractor processes data from the source Excel database *Lem Non Fiction* into an RDF graph based on the CIDOC CRM and LRMOO ontologies, plus the project's internal ontology, LKG.core. The data is processed using the `pandas` library and regular expressions. From the processed data, a graph is built using the `rdflib` library. The graph is constructed according to the mapping shown in the *Excel WJ to RDF* diagrams in `diagrams/LKG.core diagrams.drawio`.
+The Yaznevich database extractor processes data from the source Excel database *Lem Non Fiction* into an RDF graph based on the CIDOC CRM and LRMOO ontologies, plus the project's internal ontology, LKG.core. The data is processed using the `pandas` library and regular expressions. From the processed data, a graph is built using the `rdflib` library. The graph is constructed according to the mapping shown in the *Excel WJ to RDF* diagrams in `diagrams/LKG.core diagrams.drawio`.
 
 With a ready environment and the source data files, a single run of the program should take less than a minute.
 
